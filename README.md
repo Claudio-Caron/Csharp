@@ -1,2 +1,2 @@
-# C#_treinamento
- Repositório destinado para desenvolvimento e aperfeirçoamento de C#
+# C# treinamento
+ Repositório destinado para desenvolvimento e aperfeirçoamento de C# e .NET
