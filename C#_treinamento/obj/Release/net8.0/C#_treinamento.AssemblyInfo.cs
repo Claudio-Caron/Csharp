@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#_treinamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e108e5656003b02b998478b641b4f1a187b7a6f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96ce168c6fe05a20ebba8581c18e2a52d5d9895d")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#_treinamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#_treinamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
