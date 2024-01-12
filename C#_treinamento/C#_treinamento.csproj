@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Atividade2alura.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Atividade2alura.cs" />
+  </ItemGroup>
+
 </Project>
