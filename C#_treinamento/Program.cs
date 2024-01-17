@@ -34,14 +34,50 @@ switch (x)
 }
 */
 using System.Diagnostics;
-void imprimir(List<String> band)
+void AllPrint(Dictionary <String, List <int>> band)
 {
-    foreach(var bandName in band)
+    foreach(var bandname in band.Keys)
     {
-        Console.WriteLine(bandName);
+        Console.Write(bandname);   
+        foreach(var bandvalue in band[bandname])
+        {
+            Console.Write(" |"+bandvalue);    
+        }
+        Console.WriteLine("| \n");
     }
+    Console.WriteLine("\n\t\t\t Pressione qualquer tecla para voltar ao Menu");    
     Console.ReadKey();
     return;
+}
+void imprimir(Dictionary<String, List<int>> band)
+{
+    foreach (var bandName in band.Keys)
+    {
+        Console.WriteLine("\t"+bandName);
+    }
+    Console.WriteLine("Pressine qualquer tecla para continuar");
+    Console.ReadKey();
+    return;
+}
+String mostrarmedias(Dictionary<String, List<int>> band){
+    float Contador = 0, ValorTotal = 0;
+    String Svalor;
+    Console.WriteLine("Insira a banda para verificar a média de valores");
+    String escolha = Console.ReadLine()!;
+    if (band.ContainsKey(escolha))
+    {
+        foreach (var bandname in band[escolha])
+        {
+            ValorTotal += bandname;
+            Contador++;
+        }
+        Contador = ValorTotal / Contador;
+        Svalor = Contador.ToString();
+        return "MEDIA DA BANDA"+escolha+" = "+Svalor;
+    }else
+    {
+        return null;
+    } 
 }
 void mensagem()
 {
@@ -53,44 +89,66 @@ void mensagem()
 ██████╦╝██║░░██║██║░╚███║██████╔╝  ██████╔╝░░░██║░░░██████╔╝░░░██║░░░███████╗██║░╚═╝░██║
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░  ╚═════╝░░░░╚═╝░░░╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░░░░╚═╝");
 }
+void frase(string fras)
+{
+    int vezes= fras.Length;
+    String impressao = new string('*',vezes);
+    Console.WriteLine(impressao);
+    Console.WriteLine(fras);
+    Console.WriteLine(impressao);
+    return;
+}
 void Painel()
 {
     int esc;
-    List<string> ListaBandas = new List<string> { "mamonas", "AC DC", "Linkin Park", "Skilet" };
+    Dictionary<String, List<int>> DicBandas=new Dictionary<String, List<int>>();
+    DicBandas.Add("MAMONAS", new List<int> { 4, 6, 7 });
+    DicBandas.Add("Linkin in Park", new List<int> { 6, 3, 9 });
+    DicBandas.Add("AC DC", new List<int> { 9, 8, 10 });
+
+
     mensagem();
     do
     {
         Console.WriteLine("\t ESCOLHA UMA DAS OPCOES PARA SEGUIR:");
-        Console.Write("\t 1_Adicionar uma banda preferida\n\t 2_Exibir lista de bandas preferidas\n\t 3_Remover Uma Banda\n\t 4_Sair da Lista :(\n\t ");
+        Console.Write("\t 1_Adicionar uma banda preferida\n\t 2_Exibir lista de bandas preferidas\n\t 3_Classificar uma banda\n\t 4_Mostrar Medias\n\t 5_mostrar notas das bandas\n\t 6_SAIR :(\n\t ");
         String x = Console.ReadLine()!;
         esc = int.Parse(x);
         switch (esc)
         {
             case 1:
                 Console.Clear();
-                Console.WriteLine("\tOpcao escolhida : 1");
+                frase("Opcao escolhida 01 -> ADICIONAR BANDA");
                 Console.WriteLine("\tInsira qual o nome da Banda que deseja adicionar:");
                 String adc = Console.ReadLine()!;
-                ListaBandas.Add(adc);
-                Console.WriteLine("Banda adicionada");
-
+                if (DicBandas.ContainsKey(adc))
+                {
+                    Console.WriteLine("Essa banda já foi regitrada no sistema");
+                }
+                else
+                {
+                    DicBandas.Add(adc, new List<int>());
+                    Console.WriteLine("Banda adicionada");
+                }
                 Thread.Sleep(2000);
                 break;
             case 2:
                 Console.Clear();
-                Console.WriteLine("Opção escolhida : 2");
-                imprimir(ListaBandas);
-                Thread.Sleep(2000);
+                frase("Opção escolhida : 2 -> IMPRIMIR BANDAS");
+                imprimir(DicBandas);
                 break;
             case 3:
                 Console.Clear();
-                Console.WriteLine("Opcao escolhida : 3");
-                Console.WriteLine("Digite o nome da banda que deseja remover:");
-                String rem = Console.ReadLine()!;
-                bool Check = ListaBandas.Remove(rem);
-                if (Check)
+                frase("Opcao escolhida : 3 -> CLASSIFICAR BANDA");
+                Console.WriteLine("Digite o nome da banda que deseja classificar:");
+                String cla = Console.ReadLine()!;
+                if (DicBandas.ContainsKey(cla))
                 {
-                    Console.WriteLine("Banda removida");
+                    Console.WriteLine("Escolha a nota que deseja atribuir:");
+                    int nota = int.Parse(Console.ReadLine()!);
+                    DicBandas[cla].Add(nota);
+                    Console.Clear();
+                    Console.WriteLine($"A nota {nota} foi atribuido a banda {cla}");
                 }
                 else
                 {
@@ -98,9 +156,30 @@ void Painel()
                 }
                 Thread.Sleep(2000);
                 break;
-            case 4:
+            case 4: 
                 Console.Clear();
-                Console.WriteLine("Opcao escolhida : 4");
+                frase("Opcao escolhida: 4 -> MOSTRAR MEDIAS");
+                String RecebeMedia = mostrarmedias(DicBandas);
+                
+                if (RecebeMedia!=null)
+                {
+                    frase(RecebeMedia);
+                    Thread.Sleep(3000);
+                }
+                else
+                {
+                    Console.WriteLine("Banda não encontrada");
+                    Thread.Sleep(2000);
+                }
+                break;
+            case 5:
+                Console.Clear();
+                frase("OPCAO ESCOLHIDA: 5 -> MOSTRAR NOTAS DAS BANDAS");
+                AllPrint(DicBandas);
+                break;
+            case 6:
+                Console.Clear();
+                frase("Opcao escolhida : 5 -> SAIR");
                 Console.WriteLine(@"
 ██████╗░██╗░░░██╗███████╗          ██████╗░██╗░░░██╗███████╗
 ██╔══██╗╚██╗░██╔╝██╔════╝          ██╔══██╗╚██╗░██╔╝██╔════╝
@@ -108,6 +187,7 @@ void Painel()
 ██╔══██╗░░╚██╔╝░░██╔══╝░░          ██╔══██╗░░╚██╔╝░░██╔══╝░░
 ██████╦╝░░░██║░░░███████╗          ██████╦╝░░░██║░░░███████╗
 ╚═════╝░░░░╚═╝░░░╚══════╝          ╚═════╝░░░░╚═╝░░░╚══════╝");
+                Thread.Sleep(2000);
                 break;
             default:
                 Console.Clear();
@@ -116,7 +196,7 @@ void Painel()
                 break;
         }
         Console.Clear();
-    } while (esc != 4);
+    } while (esc != 6);
 }
 Painel();
 
