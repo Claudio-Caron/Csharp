@@ -73,7 +73,7 @@ String mostrarmedias(Dictionary<String, List<int>> band){
         }
         Contador = ValorTotal / Contador;
         Svalor = Contador.ToString();
-        return "MEDIA DA BANDA"+escolha+" = "+Svalor;
+        return "MEDIA DA BANDA "+escolha+" = "+Svalor;
     }else
     {
         return null;
