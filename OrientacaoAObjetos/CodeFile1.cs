@@ -7,7 +7,7 @@ class Aluno
     public float notafinal;
     public string AvaliarAluno(float nota1, float nota2)
     {
-        notafinal = nota1 + nota2 / 2;
+        notafinal = (nota1 + nota2 )/ 2;
         if  (notafinal >= 6)
         {
             return "aprovado";
