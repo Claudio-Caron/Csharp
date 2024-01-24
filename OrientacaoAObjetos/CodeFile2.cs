@@ -1,6 +1,6 @@
 ﻿class Conta
 {
-    public string PersonName { get; set; }
+    private string PersonName { get; set; }
     public float Balance
     { get => Balance;
         set
@@ -11,9 +11,10 @@
             }
         }
     }
-    public Conta()
+    public Conta(string PersonName)
     {
-        Balance=1000;
+       this.PersonName = PersonName; 
+       Balance = 1000;
     }
 
 
