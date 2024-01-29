@@ -14,6 +14,12 @@ class Aluno {
     public float Nota { get; set; }
     public int Idade { get; set; } 
     public string Nome { get; }
+    public void AdicionarNota()
+    { 
+        Console.Clear();
+        Console.WriteLine($"Insira uma nota para o aluno {Nome}");
+        Nota=float.Parse( Console.ReadLine()!);
+    }
 }
 
 class Professor
@@ -47,5 +53,13 @@ class Disciplina
         Console.WriteLine("Pressione qualquer tecla para prosseguir");
         Console.ReadKey();  
         Console.Clear();
+    }
+    public void AlterarNota()
+    {
+        Console.Clear();    
+        Alunos.ForEach(x => Console.WriteLine(x));
+        Console.WriteLine("\n\nQual dos alunos voce deseja alterara a nota?";
+
+
     }
 }
