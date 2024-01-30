@@ -61,8 +61,7 @@ class Disciplina
         Alunos.ForEach(x => Console.WriteLine(x));
         Console.WriteLine("\n\nQual dos alunos voce deseja alterara a nota?");
         string aux = Console.ReadLine()!;
-        Alunos.Find(x => x.Nome == aux);
+        Busca=Alunos.Find(x => x.Nome == aux);
         Console.WriteLine($"Insira a nota do Aluno {aux}");
-
     }
 }
