@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\bin\Debug\net8.0\Exercicio-fase4-aprendendoPOO.exe
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\bin\Debug\net8.0\Exercicio-fase4-aprendendoPOO.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\bin\Debug\net8.0\Exercicio-fase4-aprendendoPOO.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\bin\Debug\net8.0\Exercicio-fase4-aprendendoPOO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\bin\Debug\net8.0\Exercicio-fase4-aprendendoPOO.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\Exercicio-fase4-aprendendoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\Exercicio-fase4-aprendendoPOO.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\Exercicio-fase4-aprendendoPOO.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\Exercicio-fase4-aprendendoPOO.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\Exercicio-fase4-aprendendoPOO.sourcelink.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\Exercicio-fase4-aprendendoPOO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\refint\Exercicio-fase4-aprendendoPOO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\Exercicio-fase4-aprendendoPOO.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\Exercicio-fase4-aprendendoPOO.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Exercicio-fase4-aprendendoPOO\obj\Debug\net8.0\ref\Exercicio-fase4-aprendendoPOO.dll
