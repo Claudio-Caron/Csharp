@@ -5,9 +5,9 @@
 class Episodio
 {
     public List<string> Convidados {  get; set; }=new List<string>();
-    private string Titulo { get; }
-    private string Resumo { get; }
-    private int Numero { get;  }
+    public string Titulo { get; }
+    private string Resumo { get;  }
+    public int Numero { get;  }
     public Episodio()
     {
         Console.Clear();
