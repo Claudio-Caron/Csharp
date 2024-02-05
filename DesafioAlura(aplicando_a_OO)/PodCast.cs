@@ -1,12 +1,12 @@
 ﻿/*O método ExibirDetalhes() deve mostrar o nome do podcast
  * e o host na primeira linha, seguido pela lista de episódios
  * ordenados por sequência e por fim o total de episódios.*/
-class PodCast
+class Podcast
 {
     public List<Episodio> Episodios { get; set; }
     public string Nome {  get;  }
     public string Host { get; } 
-    public PodCast(string nome, string host) 
+    public Podcast(string nome, string host) 
     {
         Nome = nome;    
         Host = host;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioAlura(aplicando_a_OO)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47150ec069f378ad16df599b3393d1a9e9c2bd54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7ebf59a2091e800ad254c4aade53b33c983cc1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioAlura(aplicando_a_OO)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioAlura(aplicando_a_OO)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
