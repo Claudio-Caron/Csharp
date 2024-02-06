@@ -1,15 +1,19 @@
-﻿namespace Csharp_treinamento.Cs(dominando_OO).Filmes;
+﻿namespace Csharp_treinamento.Csharp_dominando_OO.Filmes;
 
 class Artista
 {
-    public string Nome {  get; set; }   
+    public List<string> Filmes { get; set; } = new();
+    public string Nome {  get; }   
     public int idade;
     public Artista (string nome, int idade)
     {
         Nome = nome;   
         this.idade = idade; 
     }
-
+    public void AdicionarFilme(string filme)
+    {
+        Filmes.Add(filme);
+    }
     
 
 }

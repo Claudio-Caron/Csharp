@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\bin\Debug\net8.0\Csharp_dominando_OO.exe
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\bin\Debug\net8.0\Csharp_dominando_OO.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\bin\Debug\net8.0\Csharp_dominando_OO.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\bin\Debug\net8.0\Csharp_dominando_OO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\bin\Debug\net8.0\Csharp_dominando_OO.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\Csharp_dominando_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\Csharp_dominando_OO.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\Csharp_dominando_OO.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\Csharp_dominando_OO.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\Csharp_dominando_OO.sourcelink.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\Csharp_dominando_OO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\refint\Csharp_dominando_OO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\Csharp_dominando_OO.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\Csharp_dominando_OO.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\C#(dominando_OO)\obj\Debug\net8.0\ref\Csharp_dominando_OO.dll
