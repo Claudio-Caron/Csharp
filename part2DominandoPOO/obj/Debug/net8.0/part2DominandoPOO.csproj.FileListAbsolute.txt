@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\bin\Debug\net8.0\part2DominandoPOO.exe
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\bin\Debug\net8.0\part2DominandoPOO.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\bin\Debug\net8.0\part2DominandoPOO.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\bin\Debug\net8.0\part2DominandoPOO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\bin\Debug\net8.0\part2DominandoPOO.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\part2DominandoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\part2DominandoPOO.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\part2DominandoPOO.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\part2DominandoPOO.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\part2DominandoPOO.sourcelink.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\part2DominandoPOO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\refint\part2DominandoPOO.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\part2DominandoPOO.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\part2DominandoPOO.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\part2DominandoPOO\obj\Debug\net8.0\ref\part2DominandoPOO.dll

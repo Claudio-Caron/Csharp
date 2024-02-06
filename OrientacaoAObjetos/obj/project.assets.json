@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Aprendizagem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Aprendizagem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aprendizagem.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Aprendizagem/1.0.0": {
+      "type": "project",
+      "path": "../part2DominandoPOO/Aprendizagem.csproj",
+      "msbuildProject": "../part2DominandoPOO/Aprendizagem.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Aprendizagem >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\claud\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\part2DominandoPOO\\Aprendizagem.csproj": {
+              "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\part2DominandoPOO\\Aprendizagem.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
