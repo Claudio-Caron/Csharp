@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Album(ObjetosEstáticos)/1.0.0": {
+        "runtime": {
+          "Album(ObjetosEstáticos).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Album(ObjetosEstáticos)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
