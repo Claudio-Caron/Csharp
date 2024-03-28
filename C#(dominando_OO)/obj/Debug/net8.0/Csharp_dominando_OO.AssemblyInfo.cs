@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp_dominando_OO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4d615195b770fe83f2fe8a380b05ef591ff3329")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb836b0b087196adaf6574b86e79ac549ddc9105")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp_dominando_OO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp_dominando_OO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
