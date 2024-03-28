@@ -8,7 +8,7 @@ namespace Ex2_Veiculo;
 
 internal interface IPilotavel
 {
-    public void MostrarDadosCart(string piloto);
+    string PilotShow();
     public bool DisponivelParaPilotar();
-    public string SolicitarNomeDoCart();
+    public  void ShowInformations();
 }
