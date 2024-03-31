@@ -4,9 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ex4_Recuperacao
+namespace Ex4_Recuperacao;
+
+internal class Arquivo: IArmazenavel
 {
-    internal class Arquivo
+    public void Salvar()
     {
+        Console.Clear();
+        Console.WriteLine("Seus dados foram salvos com sucesso");
+    }
+    public void Recuperar()
+    {
+        Console.Clear();
+        Console.WriteLine("Seus dados foram recuperados com sucesso");
     }
 }
