@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Album(ObjetosEstáticos)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f17fe42a8533109c99102665e32e6eafbbf57721")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8ca85fe4762e17ac318d8e122d36eea0065e2d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Album(ObjetosEstáticos)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Album(ObjetosEstáticos)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
