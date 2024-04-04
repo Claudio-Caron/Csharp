@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\bin\Debug\net8.0\2_01_CAAL.exe
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\bin\Debug\net8.0\2_01_CAAL.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\bin\Debug\net8.0\2_01_CAAL.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\bin\Debug\net8.0\2_01_CAAL.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\bin\Debug\net8.0\2_01_CAAL.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\2_01_CAAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\2_01_CAAL.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\2_01_CAAL.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\2_01_CAAL.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\2_01_CAAL.sourcelink.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\2_01_CAAL.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\refint\2_01_CAAL.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\2_01_CAAL.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\2_01_CAAL.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\2_01_CAAL\obj\Debug\net8.0\ref\2_01_CAAL.dll

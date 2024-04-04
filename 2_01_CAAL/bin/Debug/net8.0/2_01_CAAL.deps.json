@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2_01_CAAL/1.0.0": {
+        "runtime": {
+          "2_01_CAAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_01_CAAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
