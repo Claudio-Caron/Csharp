@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoBaseadoAlura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea82d817ff0e65a78a8cd06beafb6c46558208ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1823b15b6c151bdb984f2f410a501e3b8deeb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoBaseadoAlura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoBaseadoAlura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

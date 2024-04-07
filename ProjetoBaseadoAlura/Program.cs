@@ -8,8 +8,9 @@ using (HttpClient client = new HttpClient())
     {
         string retorno = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<AlbumRequisitado>>(retorno);
-        for (int i = 0; i < musicas?.Count; i++)
-            musicas[i].ShowInformationsFromBand();
+        // for (int i = 0; i < musicas?.Count; i++)
+        //  musicas[i].ShowInformationsFromBand();
+        LinqFilter.FiltrarMusicaPorArtista(musicas!, "Migos");
 
     }catch(Exception ex)
     {
