@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex2_02CAAL/1.0.0": {
+        "dependencies": {
+          "2_04CAAL": "1.0.0"
+        },
+        "runtime": {
+          "Ex2_02CAAL.dll": {}
+        }
+      },
+      "2_04CAAL/1.0.0": {
+        "runtime": {
+          "2_04CAAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex2_02CAAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "2_04CAAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

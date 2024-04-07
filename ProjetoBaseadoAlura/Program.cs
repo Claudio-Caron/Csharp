@@ -10,7 +10,7 @@ using (HttpClient client = new HttpClient())
         var musicas = JsonSerializer.Deserialize<List<AlbumRequisitado>>(retorno);
         // for (int i = 0; i < musicas?.Count; i++)
         //  musicas[i].ShowInformationsFromBand();
-        LinqFilter.FiltrarMusicaPorArtista(musicas!, "Migos");
+        LinqFilter.FiltrarMusicaPorArtista(musicas!, "Linkin Park");
 
     }catch(Exception ex)
     {

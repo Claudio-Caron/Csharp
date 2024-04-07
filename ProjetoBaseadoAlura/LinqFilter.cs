@@ -7,23 +7,19 @@ internal class LinqFilter
     // filtrar as músicas de um artista
 
     public static void FiltrarMusicaPorArtista(List<AlbumRequisitado> albuns, string artista)
-    { 
-        var artistasIguais = albuns.Select(x=>x.Artista!.Equals(artista)).ToList();
-        List<string> lista = new List<string>();    
-
-        foreach (var corredor in artistasIguais)
+    {
+        try
         {
-            int i = 0;
-            if (corredor)
+            var musicasDoArtista = albuns.Where(x => x.Artista!.Equals(artista))
+                .Select(x => x.Musica).ToList();
+            Console.WriteLine($"Musicas do Artista {artista}: ");
+            foreach (var musica in musicasDoArtista)
             {
-                lista.Add(albuns[i].Musica!);
+                Console.WriteLine(" -> " + musica + "\n");
             }
-            i++;
-        }
-        Console.WriteLine($"Percorrendo Musicas iguais do artista {artista}\n");
-        foreach (string percorrer in lista)
+        } catch 
         {
-            Console.WriteLine(percorrer);
+            Console.WriteLine("O artista escolhido não possui músicas cadastradas");
         }
     }
 }
