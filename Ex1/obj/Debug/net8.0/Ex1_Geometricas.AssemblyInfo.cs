@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex1_Geometricas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f00aa6c8aab1ec175385e7f72785b3096be8888")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a2b91a0d7a2e0b36f98ba45dc6daac4800d4066")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex1_Geometricas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex1_Geometricas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

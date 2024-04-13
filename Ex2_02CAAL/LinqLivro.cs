@@ -18,5 +18,5 @@ internal class LinqLivro
      => livros.Select(x => x.AnoDePublicacao).Average();
     
     public static List<string> LivrosAposDoisMil(List<LivroJson> livros)
-    => livros.Where(x => x.AnoDePublicacao>=1900).Select(x => x.Titulo!).ToList();     
+    => livros.Where(x => x.AnoDePublicacao>=1900).OrderBy(x => x.Titulo).Select(x => x.Titulo!).ToList();     
 }
