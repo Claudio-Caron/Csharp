@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Ex1_04CAAL
 {
-    internal class CadastroPessoa
+    public class CadastroPessoa
     {
         private string Name { get; }
         private int _idade;
