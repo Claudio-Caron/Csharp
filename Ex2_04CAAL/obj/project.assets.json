@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/Ex1_04CAAL.dll": {}
         }
+      },
+      "Ex3e4e5_04CAAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Ex1_04CAAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ex3e4e5_04CAAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex3e4e5_04CAAL.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../Ex1_04CAAL/Ex1_04CAAL.csproj",
       "msbuildProject": "../Ex1_04CAAL/Ex1_04CAAL.csproj"
+    },
+    "Ex3e4e5_04CAAL/1.0.0": {
+      "type": "project",
+      "path": "../Ex3e4e5_04CAAL/Ex3e4e5_04CAAL.csproj",
+      "msbuildProject": "../Ex3e4e5_04CAAL/Ex3e4e5_04CAAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Ex1_04CAAL >= 1.0.0"
+      "Ex1_04CAAL >= 1.0.0",
+      "Ex3e4e5_04CAAL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +74,9 @@
           "projectReferences": {
             "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex1_04CAAL\\Ex1_04CAAL.csproj": {
               "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex1_04CAAL\\Ex1_04CAAL.csproj"
+            },
+            "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj": {
+              "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj"
             }
           }
         }

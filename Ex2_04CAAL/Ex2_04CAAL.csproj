@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Ex1_04CAAL\Ex1_04CAAL.csproj" />
+    <ProjectReference Include="..\Ex3e4e5_04CAAL\Ex3e4e5_04CAAL.csproj" />
   </ItemGroup>
 
 </Project>
