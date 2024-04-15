@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio-fase4-aprendendoPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd6921548e8ca9d3e532ba0e9973f5b0523605a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e38be411efd67f3e0e9f0652d8817ff8c7166e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio-fase4-aprendendoPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio-fase4-aprendendoPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

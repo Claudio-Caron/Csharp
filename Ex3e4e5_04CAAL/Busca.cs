@@ -8,21 +8,52 @@ namespace Ex3e4e5_04CAAL
 {
     internal class Busca
     {
-        public static void Buscar(List<PessoaInfo> Pessoas)
+        public static void BuscarPorNome(List<PessoaInfo> pessoas)
         {
             Console.Clear();
-            int a = 0;
-            while (a!=1 && a!=2)
+
+
+            Console.WriteLine("Qual pessoa deseja saber os Dados?");
+            string busca_pessoa = Console.ReadLine()!;
+            if (pessoas.Select(x => x.Nome).Contains(busca_pessoa))
             {
-                Console.WriteLine("Deseja Buscar os dados por nome ou por Idade?\n 1 -> Nome\n 2 -> Idade\n");
-                a = int.Parse(Console.ReadLine()!);
+                PessoaInfo retornoBusca = pessoas.FirstOrDefault(x => x.Nome.Equals(busca_pessoa));
+                Console.WriteLine($"Dados da pessoa encontrados : \nNome : {retornoBusca.Nome}\n" +
+                    $"Idade : {retornoBusca.Idade}\nSexo : {retornoBusca.Sexo}\nAltura : {retornoBusca.AlturaEmMetros} metros\n");
             }
-            if (a==1)
+            else
             {
-                Console.WriteLine("Qual pessoa deseja saber os Dados?");
-                string busca_pessoa = Console.ReadLine()!;
-                int index= Pessoas.FindIndex(x=>x.Nome!.Equals(busca_pessoa));
+                Console.WriteLine("Pessoa não cadastrada");
             }
+            Console.WriteLine("Pressione qualquer tecla para continuar\n");
+            Console.ReadKey();
+            Console.Clear();
+
+
+        }
+
+
+        public static void FiltraIdade(List<PessoaInfo> pessoas)
+        {
+            Console.Clear();
+            Console.WriteLine("Qual a idade que deseja filtrar?");
+            int c = int.Parse(Console.ReadLine()!);
+            var filtradas = pessoas.Where(x => x.Idade == c).ToList();
+            if (filtradas.Count != 0)
+            {
+                Console.WriteLine($"Pessoas com idade = {c}\n|");
+                for (int i = 0; i < filtradas.Count; i++)
+                {
+                    Console.Write(filtradas[i].Nome + " | ");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nao foram encontrados registros de pessoas cadastradas nessa faixa de idade");
+            }
+            Console.WriteLine("Pressione qualquer tecla para Prosseguir");
+            Console.ReadKey();
+            Console.Clear();
         }
     }
 }

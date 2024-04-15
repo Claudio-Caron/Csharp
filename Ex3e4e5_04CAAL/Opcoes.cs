@@ -28,6 +28,7 @@ namespace Ex3e4e5_04CAAL
             Console.WriteLine($"Os dados d{sexonovo} {nomenovo} Foram cadastrados com sucesso\n" +
                 $" Pressione qualquer tecla para continuar\n");
             Console.ReadKey();
+            Console.Clear();
             return new PessoaInfo(nomenovo, sexonovo, alturanova, idadenova);
 
 

@@ -12,7 +12,13 @@ namespace Ex3e4e5_04CAAL;
 
 internal class Controler: Opcoes
 {
-    public List<PessoaInfo> PessoasCadastradas { get; set; } = new();
+    private List<PessoaInfo> RetornoExibir { get; set; } = new List<PessoaInfo>(); 
+    public Controler()
+    {
+       RetornoExibir =  Desserealizacao();
+    }
+    private string? ArquivoJson { get; set; }
+   // public List<PessoaInfo> PessoasCadastradas { get; set; } = new();
     private static int ContadorDaLista {  get; set; } = 0;
     public void PrincipioDeControle()
     {
@@ -23,8 +29,9 @@ internal class Controler: Opcoes
             Console.WriteLine("Escolha uma das Opcoes para Seguir:\n"+
                 " \t1 -> Novo Cadastro-Pessoa\n" +
                 " \t2 -> Exibir Pessoas Cadastradas em Ordem\n" +
-                " \t3 -> Buscar Pessoa(Por nome/idade)\n" +
-                " \t4 -> Exibir Dados de uma pessoa\n" +
+                " \t3 -> Buscar os dados da pessoa pelo nome\n" +
+                " \t4 -> Exibir pessoas com idade específicada\n"+
+                " \t5 -> Limpar a lista cadastrada\n" +
                 " \t0 -> ENCERRAR PROGRAMA");
             x = int.Parse(Console.ReadLine()!);
             switch (x)
@@ -33,16 +40,16 @@ internal class Controler: Opcoes
                     AdicionarCadastro();
                     break;
                 case 2:
-                    ExibirPessoasCadastradas();
+                    ExibirPessoasCadastradasOrdenadas();
                     break;
                 case 3:
-
+                    Busca.BuscarPorNome(RetornoExibir);
                     break;
                 case 4:
-
+                    Busca.FiltraIdade(RetornoExibir);
                     break;
                 case 5:
-
+                    LimparLista();
                     break;
                 case 0:
                     Console.WriteLine("PROGRAMA ENCERRADO\n");
@@ -53,6 +60,19 @@ internal class Controler: Opcoes
             }
         }
     }
+    private void LimparLista()
+    {
+        if (File.Exists(Path.GetFullPath("Pessoas_Cadastradas.Json")))
+        {
+            MensagemEscolha(5);
+            File.Delete(Path.GetFullPath("Pessoas_Cadastradas.Json"));
+            RetornoExibir.Clear();
+            Console.WriteLine("\nOs dados armazenados foram deletados com suceso\nPressione qualquer tecla para continuar\n");
+        }else
+            Console.WriteLine("A lista ja esta vazia\nPressione qualquer tecla para continuar");
+        Console.ReadKey();
+        Console.Clear();
+    }
     private void MensagemEscolha(int n)
     {
         Console.Clear();
@@ -61,32 +81,69 @@ internal class Controler: Opcoes
     public void AdicionarCadastro()
     {
         MensagemEscolha(1);
-        ContadorDaLista++;
+        //ContadorDaLista++;
         PessoaInfo pessoanova = Op1();
-        PessoasCadastradas.Add(pessoanova);
+        RetornoExibir.Add(pessoanova);
         ManipularJson();
+        //RetornoExibir = Desserealizacao();
     }
-    public void ExibirPessoasCadastradas()
+    public void ExibirPessoasCadastradasOrdenadas()
     {
-        List<PessoaInfo> retornoExibir = Desserealizacao();
-        var retornoOrdenado = retornoExibir.OrderBy(x=>x.Nome).Select(x=>x.Nome).ToList();
-        Console.Clear();
-        foreach (var nome in retornoOrdenado)
+        if (RetornoExibir.Count == 0)
         {
-            Console.WriteLine(nome+" ");
+            Console.WriteLine("Não existem pesssoas cadastradas na lista de registros");
+            Console.ReadKey();
+            Console.Clear();
+        }
+        else
+        {
+            var retornoOrdenado = RetornoExibir.OrderBy(x => x.Nome).Select(x => x.Nome).ToList();
+            Console.Clear();
+            Console.WriteLine("Pessoas cadastradas na Lista: \n");
+            foreach (var nome in retornoOrdenado)
+            {
+                Console.WriteLine("\t"+nome + " ");
+            }
+            Console.WriteLine("\n Pressione qualquer tecla para continuar");
+            Console.ReadKey();
+            Console.Clear();
         }
     }
     private void ManipularJson()
     {
-        ArquivoJson = JsonSerializer.Serialize(PessoasCadastradas); 
+        /*   if (JsonNaoVazio && contador == 0)
+         *   
+         *   
+         */
+        ArquivoJson = JsonSerializer.Serialize(RetornoExibir);
         File.WriteAllText("Pessoas_Cadastradas.Json",ArquivoJson);
     }
-    private string? ArquivoJson {  get; set; }
-    private List<PessoaInfo> Desserealizacao()
-    { 
-        var jsonDesserealizado =
-            JsonSerializer.Deserialize<List<PessoaInfo>>(File.ReadAllText(Path.GetFullPath("Pessoas_Cadastradas.Json")));
-        return jsonDesserealizado!;
+
+    private List<PessoaInfo>? Desserealizacao()
+    {
+        try
+        {
+            if (File.Exists("Pessoas_Cadastradas.Json"))
+            {
+                List<PessoaInfo> retorno = JsonSerializer.Deserialize<List<PessoaInfo>>(File.ReadAllText(Path.GetFullPath("Pessoas_Cadastradas.Json")))!;
+                return retorno;
+            } else 
+            { 
+                return RetornoExibir;
+            }
+        }
+        catch (Exception ex)
+        {
+            //if (File.Exists("Pessoas_Cadastradas.Json") == false){
+            //    Console.WriteLine("Lista vazia");
+            //}
+            if (File.Exists("Pessoas_Cadastradas.Json"))
+            { 
+                Console.WriteLine("Erro na desserealizacao do arquivo com os dados inseridos" + ex.Message);
+            }
+            return null;
+        }
     }
+    
     
 }
