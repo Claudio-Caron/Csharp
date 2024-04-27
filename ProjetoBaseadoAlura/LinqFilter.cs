@@ -12,7 +12,7 @@ internal class LinqFilter
         {
             var musicasDoArtista = albuns.Where(x => x.Artista!.Equals(artista))
                 .Select(x => x.Musica).ToList();
-            Console.WriteLine($"Musicas do Artista {artista}: ");
+         //   Console.WriteLine($"Musicas do Artista {artista}: ");
             foreach (var musica in musicasDoArtista)
             {
                 Console.WriteLine(" -> " + musica + "\n");
