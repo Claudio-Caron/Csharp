@@ -19,7 +19,6 @@ internal class Controler: Opcoes
     }
     private string? ArquivoJson { get; set; }
    // public List<PessoaInfo> PessoasCadastradas { get; set; } = new();
-    private static int ContadorDaLista {  get; set; } = 0;
     public void PrincipioDeControle()
     {
         int x = 1;
