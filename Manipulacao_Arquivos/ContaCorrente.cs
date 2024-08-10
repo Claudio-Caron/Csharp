@@ -9,15 +9,24 @@ namespace ByteBankIO
 {
     public class ContaCorrente
     {
+        private string v1;
+        private string v2;
+
         public int Numero { get; }
         public int Agencia { get; }
         public double Saldo { get; private set; }
-        public Cliente Titular { get; set; }
+        public Cliente Titular { get; set; }=new Cliente();
 
         public ContaCorrente(int agencia, int numero)
         {
             Agencia = agencia;
             Numero = numero;
+        }
+
+        public ContaCorrente(string v1, string v2)
+        {
+            this.v1 = v1;
+            this.v2 = v2;
         }
 
         public void Depositar(double valor)
