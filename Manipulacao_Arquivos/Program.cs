@@ -18,9 +18,11 @@ partial class Program
                 while (!sr.EndOfStream)
                 {
                     texto = sr.ReadLine();
-                    Console.WriteLine(texto);
+                    //Console.WriteLine(texto);
                     contas.Add(ConversaoDeArquivoParaObjeto(texto));
                     Console.WriteLine("Nome: "+contas.Last().Titular.Nome);
+                    //Thread.Sleep(2000);
+                    //Console.ReadKey();
                 }
             }
         }
@@ -31,8 +33,12 @@ partial class Program
         var dados = texto.Split(',');
         ContaCorrente conta = new ContaCorrente(int.Parse(dados[0]), int.Parse(dados[1]));
         conta.Depositar(double.Parse(dados[2]));
-      //  conta.Titular= new Cliente();   
-        conta.Titular.Nome = dados[3];
+        //  conta.Titular= new Cliente();
+        conta.Titular.Nome  = dados[3];
+        for (int i = 3; i < dados.Length-1; i++)
+        {
+            conta.Titular.Nome += dados[i];
+        }
         return conta;
     }
 }
