@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Manipulacao_Arquivos/1.0.0": {
+        "dependencies": {
+          "LibraryBank": "1.0.0"
+        },
         "runtime": {
           "Manipulacao_Arquivos.dll": {}
+        }
+      },
+      "LibraryBank/1.0.0": {
+        "runtime": {
+          "LibraryBank.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Manipulacao_Arquivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryBank/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

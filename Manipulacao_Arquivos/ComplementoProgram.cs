@@ -1,4 +1,6 @@
-﻿partial class Program
+﻿using System.Xml;
+
+partial class Program
 {
     static void ConverterTexto_Objeto()
     {
@@ -11,7 +13,7 @@
                 while (!leitor.EndOfStream)
                 {
                     linha = leitor.ReadLine();
-                    var dados = linha.Split(',');
+                    string[] dados = linha.Split(',');
                 }
             }
         }
@@ -25,6 +27,19 @@
                 escritor.WriteLine(dados);
                 escritor.Flush();
             }
+        }
+    }
+    static void EscreverArquivoXml(string way, string dados)
+    {
+        try
+        {
+            string xml = XmlConvert.DecodeName(dados);
+            File.WriteAllText(way, xml);
+
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
         }
     }
 }

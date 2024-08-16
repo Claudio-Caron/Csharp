@@ -13,3 +13,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Manipulacao_Arquivos\obj\Debug\net8.0\Manipulacao_Arquivos.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Manipulacao_Arquivos\obj\Debug\net8.0\Manipulacao_Arquivos.genruntimeconfig.cache
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Manipulacao_Arquivos\obj\Debug\net8.0\ref\Manipulacao_Arquivos.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Manipulacao_Arquivos\bin\Debug\net8.0\LibraryBank.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Manipulacao_Arquivos\bin\Debug\net8.0\LibraryBank.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Manipulacao_Arquivos\obj\Debug\net8.0\Manipulacao_Arquivos.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\Manipulacao_Arquivos\obj\Debug\net8.0\Manipula.1E862171.Up2Date
