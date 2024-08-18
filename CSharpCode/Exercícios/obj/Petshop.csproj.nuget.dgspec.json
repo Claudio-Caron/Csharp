@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercícios\\Petshop.csproj": {}
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercícios\\Petshop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercícios\\Petshop.csproj": {
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercícios\\Petshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercícios\\Petshop.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercícios\\Petshop.csproj",
         "projectName": "Petshop",
-        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercícios\\Petshop.csproj",
+        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercícios\\Petshop.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercícios\\obj\\",
+        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercícios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",

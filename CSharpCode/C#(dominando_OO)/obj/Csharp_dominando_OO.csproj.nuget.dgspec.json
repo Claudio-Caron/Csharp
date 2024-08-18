@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\C#(dominando_OO)\\Csharp_dominando_OO.csproj": {}
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\C#(dominando_OO)\\Csharp_dominando_OO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\C#(dominando_OO)\\Csharp_dominando_OO.csproj": {
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\C#(dominando_OO)\\Csharp_dominando_OO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\C#(dominando_OO)\\Csharp_dominando_OO.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\C#(dominando_OO)\\Csharp_dominando_OO.csproj",
         "projectName": "Csharp_dominando_OO",
-        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\C#(dominando_OO)\\Csharp_dominando_OO.csproj",
+        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\C#(dominando_OO)\\Csharp_dominando_OO.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\C#(dominando_OO)\\obj\\",
+        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\C#(dominando_OO)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",

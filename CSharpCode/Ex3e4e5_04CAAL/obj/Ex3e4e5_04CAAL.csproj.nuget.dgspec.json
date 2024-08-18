@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj": {}
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex1_04CAAL\\Ex1_04CAAL.csproj": {
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex1_04CAAL\\Ex1_04CAAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex1_04CAAL\\Ex1_04CAAL.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex1_04CAAL\\Ex1_04CAAL.csproj",
         "projectName": "Ex1_04CAAL",
-        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex1_04CAAL\\Ex1_04CAAL.csproj",
+        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex1_04CAAL\\Ex1_04CAAL.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex1_04CAAL\\obj\\",
+        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex1_04CAAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj": {
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj",
         "projectName": "Ex3e4e5_04CAAL",
-        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj",
+        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex3e4e5_04CAAL\\Ex3e4e5_04CAAL.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3e4e5_04CAAL\\obj\\",
+        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex3e4e5_04CAAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex1_04CAAL\\Ex1_04CAAL.csproj": {
-                "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex1_04CAAL\\Ex1_04CAAL.csproj"
+              "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex1_04CAAL\\Ex1_04CAAL.csproj": {
+                "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex1_04CAAL\\Ex1_04CAAL.csproj"
               }
             }
           }

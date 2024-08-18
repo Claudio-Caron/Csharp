@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\2_03CAAL\\2_03CAAL.csproj",
+      "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\2_03CAAL\\2_03CAAL.csproj",
       "projectName": "2_03CAAL",
-      "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\2_03CAAL\\2_03CAAL.csproj",
+      "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\2_03CAAL\\2_03CAAL.csproj",
       "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\2_03CAAL\\obj\\",
+      "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\2_03CAAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",

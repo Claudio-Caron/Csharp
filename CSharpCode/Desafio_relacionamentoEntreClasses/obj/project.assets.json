@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Desafio_relacionamentoEntreClasses\\Desafio_relacionamentoEntreClasses.csproj",
+      "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Desafio_relacionamentoEntreClasses\\Desafio_relacionamentoEntreClasses.csproj",
       "projectName": "Desafio_relacionamentoEntreClasses",
-      "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Desafio_relacionamentoEntreClasses\\Desafio_relacionamentoEntreClasses.csproj",
+      "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Desafio_relacionamentoEntreClasses\\Desafio_relacionamentoEntreClasses.csproj",
       "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Desafio_relacionamentoEntreClasses\\obj\\",
+      "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Desafio_relacionamentoEntreClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",

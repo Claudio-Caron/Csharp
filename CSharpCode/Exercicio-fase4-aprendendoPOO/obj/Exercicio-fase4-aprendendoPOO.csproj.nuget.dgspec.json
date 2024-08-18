@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercicio-fase4-aprendendoPOO\\Exercicio-fase4-aprendendoPOO.csproj": {}
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercicio-fase4-aprendendoPOO\\Exercicio-fase4-aprendendoPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercicio-fase4-aprendendoPOO\\Exercicio-fase4-aprendendoPOO.csproj": {
+    "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercicio-fase4-aprendendoPOO\\Exercicio-fase4-aprendendoPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercicio-fase4-aprendendoPOO\\Exercicio-fase4-aprendendoPOO.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercicio-fase4-aprendendoPOO\\Exercicio-fase4-aprendendoPOO.csproj",
         "projectName": "Exercicio-fase4-aprendendoPOO",
-        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercicio-fase4-aprendendoPOO\\Exercicio-fase4-aprendendoPOO.csproj",
+        "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercicio-fase4-aprendendoPOO\\Exercicio-fase4-aprendendoPOO.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Exercicio-fase4-aprendendoPOO\\obj\\",
+        "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Exercicio-fase4-aprendendoPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",

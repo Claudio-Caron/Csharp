@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3_BankAccounts\\Ex3_BankAccounts.csproj",
+      "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex3_BankAccounts\\Ex3_BankAccounts.csproj",
       "projectName": "Ex3_BankAccounts",
-      "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3_BankAccounts\\Ex3_BankAccounts.csproj",
+      "projectPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex3_BankAccounts\\Ex3_BankAccounts.csproj",
       "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\Ex3_BankAccounts\\obj\\",
+      "outputPath": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\Ex3_BankAccounts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",

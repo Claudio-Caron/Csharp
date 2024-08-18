@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\BibliotecasDeProjetos\\",
+  "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\BibliotecasDeProjetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5B40DA7-54C3-4C56-AC94-3F101500D410}|ConversaoArquivos\\ConversaoArquivos.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\bibliotecasdeprojetos\\conversaoarquivos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B40DA7-54C3-4C56-AC94-3F101500D410}|ConversaoArquivos\\ConversaoArquivos.csproj|solutionrelative:conversaoarquivos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\BibliotecasDeProjetos\\ConversaoArquivos\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConversaoArquivos\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\BibliotecasDeProjetos\\ConversaoArquivos\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\BibliotecasDeProjetos\\ConversaoArquivos\\Class1.cs",
               "RelativeDocumentMoniker": "ConversaoArquivos\\Class1.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\BibliotecasDeProjetos\\ConversaoArquivos\\Class1.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\BibliotecasDeProjetos\\ConversaoArquivos\\Class1.cs",
               "RelativeToolTip": "ConversaoArquivos\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T16:47:18.057Z",
+              "WhenOpened": "2024-08-18T18:59:57.782Z",
               "EditorCaption": ""
             }
           ]
