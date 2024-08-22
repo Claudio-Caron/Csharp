@@ -1,0 +1,5 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ex4_Notific\obj\Debug\net8.0\ex4_Notific.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ex4_Notific\obj\Debug\net8.0\ex4_Notific.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ex4_Notific\obj\Debug\net8.0\ex4_Notific.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ex4_Notific\obj\Debug\net8.0\ex4_Notific.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ex4_Notific\obj\Debug\net8.0\ex4_Notific.sourcelink.json

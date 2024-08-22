@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConversaoArquivos</name>
+    </assembly>
+    <members>
+        <member name="T:ConversaoArquivos.OpArquivo">
+            <summary>
+            enumerator para especificar o tipo do Arquivo para conversão
+            </summary>
+        </member>
+        <member name="T:ConversaoArquivos.ConversaoArquivo">
+            <summary>
+            Classe para serializar listas em arquivos
+            </summary>
+        </member>
+        <member name="M:ConversaoArquivos.ConversaoArquivo.SalvarListaEmArquivo``1(System.Collections.Generic.List{``0},ConversaoArquivos.OpArquivo,System.String)">
+            <summary>
+            Método responsável por serializar lista genérica em arquivo específico
+            </summary>
+            <typeparam name="Tipo da classedaclasse"></typeparam>
+            <param name="lista"></param>
+            <param name="escolha do tipo de arquivodotipodearquivo"></param>
+            <param name="caminho que o arquivo será salvoqueoarquivoserásalvo"></param>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+    </members>
+</doc>

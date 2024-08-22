@@ -1,0 +1,5 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex4_Recuperacao\obj\Debug\net8.0\Ex4_Recuperacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex4_Recuperacao\obj\Debug\net8.0\Ex4_Recuperacao.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex4_Recuperacao\obj\Debug\net8.0\Ex4_Recuperacao.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex4_Recuperacao\obj\Debug\net8.0\Ex4_Recuperacao.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex4_Recuperacao\obj\Debug\net8.0\Ex4_Recuperacao.sourcelink.json

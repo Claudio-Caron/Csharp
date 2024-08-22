@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\bin\Debug\net8.0\Ex_01CAAL.exe
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\bin\Debug\net8.0\Ex_01CAAL.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\bin\Debug\net8.0\Ex_01CAAL.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\bin\Debug\net8.0\Ex_01CAAL.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\bin\Debug\net8.0\Ex_01CAAL.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\Ex_01CAAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\Ex_01CAAL.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\Ex_01CAAL.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\Ex_01CAAL.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\Ex_01CAAL.sourcelink.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\Ex_01CAAL.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\refint\Ex_01CAAL.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\Ex_01CAAL.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\Ex_01CAAL.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\Ex_01\obj\Debug\net8.0\ref\Ex_01CAAL.dll

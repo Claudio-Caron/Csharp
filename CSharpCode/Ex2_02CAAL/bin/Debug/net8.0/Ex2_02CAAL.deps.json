@@ -16,7 +16,10 @@
       },
       "2_04CAAL/1.0.0": {
         "runtime": {
-          "2_04CAAL.dll": {}
+          "2_04CAAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

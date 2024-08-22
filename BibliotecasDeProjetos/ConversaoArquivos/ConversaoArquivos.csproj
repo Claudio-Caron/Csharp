@@ -4,6 +4,24 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>CONVERSOR_ARQUIVO</Title>
+    <Authors>Claudio_Caron</Authors>
+    <Description>pacote com classe de serialização de arquivo por meio de classes e fazendo referência ao nuget  Newton
+Soft</Description>
+    <PackageIcon>Captura de tela 2024-08-22 155049.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\Imagens\Capturas de tela\Captura de tela 2024-08-22 155049.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
 
 </Project>

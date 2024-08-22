@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex4_Animais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0af1e82de98390062cdb3ec4fa1ffcfe5ac3f99f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e95ba91b2862bf6c98fbeaf89a0ccfb3108873cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex4_Animais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex4_Animais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesafioAlura(aplicando_a_OO)/1.0.0": {
+        "runtime": {
+          "DesafioAlura(aplicando_a_OO).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioAlura(aplicando_a_OO)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

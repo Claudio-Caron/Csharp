@@ -11,10 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConversaoArquivos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Claudio_Caron")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("pacote com classe de serialização de arquivo por meio de classes e fazendo referê" +
+    "ncia ao nuget  Newton\r\nSoft")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0af1e82de98390062cdb3ec4fa1ffcfe5ac3f99f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e95ba91b2862bf6c98fbeaf89a0ccfb3108873cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversaoArquivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversaoArquivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

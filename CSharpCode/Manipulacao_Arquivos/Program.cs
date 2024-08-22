@@ -8,6 +8,7 @@ partial class Program
 {
     private static void Main(string[] args)
     {
+         
         string endereco = "contas.txt";
        // EscreverEmArquivo("contas.txt", "277, 4655, 23,14, claudio andre");
          using (FileStream arquivo = new FileStream(endereco, FileMode.Open))

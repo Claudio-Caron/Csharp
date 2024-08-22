@@ -10,3 +10,15 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\LibraryBank\obj\Debug\net8.0\refint\LibraryBank.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\LibraryBank\obj\Debug\net8.0\LibraryBank.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\LibraryBank\obj\Debug\net8.0\ref\LibraryBank.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\bin\Debug\net8.0\LibraryBank.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\bin\Debug\net8.0\LibraryBank.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\bin\Debug\net8.0\LibraryBank.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\LibraryBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\LibraryBank.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\LibraryBank.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\LibraryBank.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\LibraryBank.sourcelink.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\LibraryBank.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\refint\LibraryBank.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\LibraryBank.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\LibraryBank\obj\Debug\net8.0\ref\LibraryBank.dll

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConversaoArquivos</id>
+    <version>1.0.0</version>
+    <title>CONVERSOR_ARQUIVO</title>
+    <authors>Claudio_Caron</authors>
+    <icon>Captura de tela 2024-08-22 155049.png</icon>
+    <description>pacote com classe de serialização de arquivo por meio de classes e fazendo referência ao nuget  Newton
+Soft</description>
+    <repository type="git" commit="e95ba91b2862bf6c98fbeaf89a0ccfb3108873cc" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\BibliotecasDeProjetos\ConversaoArquivos\bin\Debug\net8.0\ConversaoArquivos.dll" target="lib\net8.0\ConversaoArquivos.dll" />
+    <file src="C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\BibliotecasDeProjetos\ConversaoArquivos\bin\Debug\net8.0\ConversaoArquivos.xml" target="lib\net8.0\ConversaoArquivos.xml" />
+    <file src="C:\Users\claud\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-08-22 155049.png" target="\Captura de tela 2024-08-22 155049.png" />
+  </files>
+</package>

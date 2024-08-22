@@ -1,0 +1,12 @@
+[
+  {
+    "Numero": 3234,
+    "Agencia": 122,
+    "Saldo": 0.0,
+    "Titular": {
+      "Nome": null,
+      "CPF": null,
+      "Profissao": null
+    }
+  }
+]
