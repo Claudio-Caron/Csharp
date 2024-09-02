@@ -1,5 +1,20 @@
-﻿using ScreenSound.Menus;
+﻿using PersistindoDadosComEntityFC.Database;
+using ScreenSound.Menus;
 using ScreenSound.Modelos;
+
+try
+{
+    using (var connection = new Connection().ObterConexao())
+    {
+        connection.Open();
+        Console.WriteLine($"{connection.State}\n");
+    }
+    Console.WriteLine("\n\n \t\t\t\t---OK---\n\n");
+    
+}catch(Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
 
 Artista ira = new Artista("Ira!", "Banda Ira!");
 Artista beatles = new("The Beatles", "Banda The Beatles");
