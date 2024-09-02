@@ -1,5 +1,5 @@
 ﻿
-
+/*
 // See https://aka.ms/new-console-template for more information
 using Csharp_treinamento.Csharp_dominando_OO.Filmes;
 
@@ -54,7 +54,44 @@ foreach (var item in Preferidos)
 {
     Console.WriteLine("\n|"+item.Titulo+"|");
 }
+*/
+using System.Collections.Generic;
 
-
-
-
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+       List<int> list = new List<int>();
+        list = BinaryConverter(3);
+        foreach (int i in list)
+        {
+            Console.Write(i);
+        }
+    }
+    public static List<int> BinaryConverter(float number)
+    {
+        if (number < 0 || number % 1 != 0)
+        {
+            return null;
+        }
+        List<int> lista = new List<int>();
+        List<int> retorno = new List<int>();
+        while (number > 1)
+        {
+            if (number % 2 == 1)
+            {
+                lista.Add(0);
+            }
+            else
+            {
+                lista.Add(1);
+            }
+            number = number/ 2;
+        }
+        for (int i = lista.Count-1; i > 0; i--)
+        {
+            retorno.Add(lista[i]);
+        }
+        return retorno;
+    }
+}

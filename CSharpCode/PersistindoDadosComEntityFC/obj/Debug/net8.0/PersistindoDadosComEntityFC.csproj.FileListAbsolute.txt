@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\PersistindoDadosComEntityFC.exe
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\PersistindoDadosComEntityFC.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\PersistindoDadosComEntityFC.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\PersistindoDadosComEntityFC.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\PersistindoDadosComEntityFC.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\PersistindoDadosComEntityFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\PersistindoDadosComEntityFC.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\PersistindoDadosComEntityFC.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\PersistindoDadosComEntityFC.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\PersistindoDadosComEntityFC.sourcelink.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\PersistindoDadosComEntityFC.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\refint\PersistindoDadosComEntityFC.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\PersistindoDadosComEntityFC.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\PersistindoDadosComEntityFC.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\obj\Debug\net8.0\ref\PersistindoDadosComEntityFC.dll
