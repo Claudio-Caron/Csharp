@@ -10,7 +10,6 @@ namespace PersistindoDadosComEntityFC.Database
     internal class Connection
     {
         private string ConnectionString {  get; set; }
-
         public Connection()
         {
             ConnectionString =

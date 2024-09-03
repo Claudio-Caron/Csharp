@@ -4,10 +4,10 @@ using ScreenSound.Modelos;
 
 try
 {
-    using (var connection = new Connection().ObterConexao())
+    var connection = new ArtistaDAL().ListarArtista();
+    foreach (var artista in connection)
     {
-        connection.Open();
-        Console.WriteLine($"{connection.State}\n");
+        Console.WriteLine(artista.ToString());
     }
     Console.WriteLine("\n\n \t\t\t\t---OK---\n\n");
     
