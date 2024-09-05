@@ -29,5 +29,26 @@ namespace PersistindoDadosComEntityFC.Database
             }
             return lista;
         }
+        public void AdicionarArtista(Artista artist)
+        {
+            using var connection = new Connection().ObterConexao();
+            connection.Open();
+
+            string sql = "INSERT INTO Artistas (Nome, FotoPerfil, bio) VALUES (@nome, @perfilpadrao, @bio)";
+
+            using SqlCommand command = new SqlCommand(sql, connection);
+
+            Console.WriteLine(artist.ToString());
+            Console.ReadKey();
+
+            command.Parameters.AddWithValue("@nome", artist.Nome);
+            command.Parameters.AddWithValue("@perfilPadrao", artist.FotoPerfil);
+            command.Parameters.AddWithValue("@bio", artist.Bio);
+
+
+            Console.WriteLine("Linhas afetadas : ", command.ExecuteNonQuery());
+            Console.ReadKey();
+            Console.Clear();
+        }
     }
 }

@@ -4,16 +4,23 @@ using ScreenSound.Modelos;
 
 try
 {
-    var connection = new ArtistaDAL().ListarArtista();
-    foreach (var artista in connection)
+    var artista = new ArtistaDAL();
+    var a = new Artista("Mamonas Assasinas", "Banda defunta");
+
+    Console.WriteLine(a.ToString());
+    Console.ReadKey();
+
+    artista.AdicionarArtista(a);
+    var connection = artista.ListarArtista();
+    foreach (var artist in connection)
     {
-        Console.WriteLine(artista.ToString());
+        Console.WriteLine(artist.ToString());
     }
     Console.WriteLine("\n\n \t\t\t\t---OK---\n\n");
     
 }catch(Exception ex)
 {
-    Console.WriteLine(ex.Message);
+    Console.WriteLine("Excecao lancada "+ex.Message);
 }
 
 Artista ira = new Artista("Ira!", "Banda Ira!");
