@@ -9,15 +9,20 @@ using System.Threading.Tasks;
 
 namespace PersistindoDadosComEntityFC.Database
 {
+
     class ArtistaDAL
     {
-        //métodos para listar e adicionar artistas;
+        private readonly Connection con;
 
-        //O método Atualizar seguirá a mesma lógica
-        //do método Adicionar que fizemos em vídeo.
-        //Você utilizará o script $"UPDATE Artistas SET Nome = @nome, Bio = @bio WHERE Id = @id" para a variável sql
-        public void AtualizarArtista(Artista artista)
+        public ArtistaDAL()
         {
+            con = new Connection();
+        }
+        public IEnumerable<Artista> ListarArtista()
+        {
+            return con.Artists.ToList();
+        } 
+        /*
             if (artista!= null)
             {
                 using var connection = new Connection().ObterConexao();
@@ -113,5 +118,6 @@ namespace PersistindoDadosComEntityFC.Database
             Console.ReadKey();
             Console.Clear();
         }
+       */
     }
 }
