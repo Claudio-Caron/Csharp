@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersistindoDadosComEntityFC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+011d2707a7813ab8fd967926cef259d19ff303c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79d51331ba0668d63242467ec4e710889e794a9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersistindoDadosComEntityFC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersistindoDadosComEntityFC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
