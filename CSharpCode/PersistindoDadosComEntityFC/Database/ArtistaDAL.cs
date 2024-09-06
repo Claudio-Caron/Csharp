@@ -22,6 +22,21 @@ namespace PersistindoDadosComEntityFC.Database
         {
             return con.Artists.ToList();
         } 
+        public void AlterarArtista(Artista artist)
+        {
+            con.Artists.Update(artist);
+            con.SaveChanges();
+        }
+        public void DeletarArtista(Artista artista)
+        {
+            con.Artists.Remove(artista);
+            con.SaveChanges();
+        }
+        public void AdicionarArtista(Artista artista)
+        {
+            con.Artists.Add(artista);
+            con.SaveChanges();
+        }
         /*
             if (artista!= null)
             {
