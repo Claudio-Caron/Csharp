@@ -10,7 +10,7 @@ try
     Console.WriteLine(a.ToString());
     Console.ReadKey();
 
-    artista.AdicionarArtista(a);
+    //artista.AdicionarArtista(a);
     var connection = artista.ListarArtista();
     foreach (var artist in connection)
     {

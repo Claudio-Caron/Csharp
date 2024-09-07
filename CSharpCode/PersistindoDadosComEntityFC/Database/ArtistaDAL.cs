@@ -24,8 +24,13 @@ namespace PersistindoDadosComEntityFC.Database
         } 
         public void AlterarArtista(Artista artist)
         {
-            con.Artists.Update(artist);
-            con.SaveChanges();
+            if (con.Artists.Contains(artist))
+            {
+                con.Artists.Update(artist);
+                con.SaveChanges();
+                return;
+            }
+                
         }
         public void DeletarArtista(Artista artista)
         {
@@ -37,6 +42,7 @@ namespace PersistindoDadosComEntityFC.Database
             con.Artists.Add(artista);
             con.SaveChanges();
         }
+        public Artista? RecuperarPeloNome(string nome) => con.Artists.FirstOrDefault(x => x.Equals(nome));
         /*
             if (artista!= null)
             {
