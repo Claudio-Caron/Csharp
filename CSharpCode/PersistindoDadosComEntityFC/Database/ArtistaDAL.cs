@@ -12,11 +12,11 @@ namespace PersistindoDadosComEntityFC.Database
 
     class ArtistaDAL
     {
-        private readonly Connection con;
+        private readonly ScreenSoundContext con;
 
-        public ArtistaDAL()
+        public ArtistaDAL(ScreenSoundContext ssContext)
         {
-            con = new Connection();
+            con = ssContext;
         }
         public IEnumerable<Artista> ListarArtista()
         {
@@ -43,6 +43,8 @@ namespace PersistindoDadosComEntityFC.Database
             con.SaveChanges();
         }
         public Artista? RecuperarPeloNome(string nome) => con.Artists.FirstOrDefault(x => x.Equals(nome));
+
+        //public Artista? RecuperarPeloNome(string nome, Artista? artista)=>con.Artists.Select(x=>x).Where(x=>x.Nome==nome).FirstOrDefault();
         /*
             if (artista!= null)
             {

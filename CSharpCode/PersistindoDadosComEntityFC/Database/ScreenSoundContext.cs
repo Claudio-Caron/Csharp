@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace PersistindoDadosComEntityFC.Database
 {
-    internal class Connection : DbContext
+    internal class ScreenSoundContext : DbContext
     {
         public DbSet<Artista> Artists { get; set; }
 
