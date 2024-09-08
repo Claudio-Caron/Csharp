@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\database\\artistadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menumostrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menumostrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menuregistrarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menuregistrarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\database\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\database\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +46,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScreenSoundContext.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\ScreenSoundContext.cs",
+              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\Database\\ScreenSoundContext.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\ScreenSoundContext.cs",
+              "RelativeToolTip": "PersistindoDadosComEntityFC\\Database\\ScreenSoundContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:53:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ArtistaDAL.cs",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\ArtistaDAL.cs",
               "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\Database\\ArtistaDAL.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\ArtistaDAL.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\Database\\ArtistaDAL.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\ArtistaDAL.cs*",
+              "RelativeToolTip": "PersistindoDadosComEntityFC\\Database\\ArtistaDAL.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T17:11:52.671Z",
+              "WhenOpened": "2024-09-07T23:52:57.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Connection.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\Connection.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\Database\\Connection.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\Connection.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\Database\\Connection.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBYAAAAJAAAAAAAAAA==",
+              "Title": "MenuMostrarArtistas.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
+              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
+              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T17:11:51.353Z",
+              "WhenOpened": "2024-09-07T23:49:27.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuRegistrarArtista.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuRegistrarArtista.cs",
+              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuRegistrarArtista.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuRegistrarArtista.cs",
+              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuRegistrarArtista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:49:18.042Z",
               "EditorCaption": ""
             },
             {
@@ -70,7 +104,7 @@
               "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\Program.cs",
               "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Program.cs",
               "RelativeToolTip": "PersistindoDadosComEntityFC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T14:02:02.066Z",
               "EditorCaption": ""

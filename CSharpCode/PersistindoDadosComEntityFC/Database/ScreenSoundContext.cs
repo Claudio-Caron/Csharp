@@ -12,7 +12,7 @@ namespace PersistindoDadosComEntityFC.Database
 {
     internal class ScreenSoundContext : DbContext
     {
-        public DbSet<Artista> Artists { get; set; }
+        public DbSet<Artista> Artistas { get; set; }
 
         private string ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial " +
                 "Catalog=ScreenSoundDB;Integrated Security=True;" +

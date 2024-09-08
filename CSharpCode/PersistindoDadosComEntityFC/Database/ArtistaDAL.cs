@@ -20,13 +20,13 @@ namespace PersistindoDadosComEntityFC.Database
         }
         public IEnumerable<Artista> ListarArtista()
         {
-            return con.Artists.ToList();
+            return con.Artistas.ToList();
         } 
         public void AlterarArtista(Artista artist)
         {
-            if (con.Artists.Contains(artist))
+            if (con.Artistas.Contains(artist))
             {
-                con.Artists.Update(artist);
+                con.Artistas.Update(artist);
                 con.SaveChanges();
                 return;
             }
@@ -34,15 +34,15 @@ namespace PersistindoDadosComEntityFC.Database
         }
         public void DeletarArtista(Artista artista)
         {
-            con.Artists.Remove(artista);
+            con.Artistas.Remove(artista);
             con.SaveChanges();
         }
         public void AdicionarArtista(Artista artista)
         {
-            con.Artists.Add(artista);
+            con.Artistas.Add(artista);
             con.SaveChanges();
         }
-        public Artista? RecuperarPeloNome(string nome) => con.Artists.FirstOrDefault(x => x.Equals(nome));
+        public Artista? RecuperarPeloNome(string nome) => con.Artistas.FirstOrDefault(x => x.Nome.Equals(nome));
 
         //public Artista? RecuperarPeloNome(string nome, Artista? artista)=>con.Artists.Select(x=>x).Where(x=>x.Nome==nome).FirstOrDefault();
         /*
