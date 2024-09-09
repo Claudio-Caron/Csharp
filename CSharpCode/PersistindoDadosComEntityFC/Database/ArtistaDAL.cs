@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace PersistindoDadosComEntityFC.Database
 {
 
-    class ArtistaDAL
+    class ArtistaDAL:  DAL<Artista>
     {
         private readonly ScreenSoundContext con;
 
@@ -18,11 +18,11 @@ namespace PersistindoDadosComEntityFC.Database
         {
             con = ssContext;
         }
-        public IEnumerable<Artista> ListarArtista()
+        public override IEnumerable<Artista> Listar()
         {
             return con.Artistas.ToList();
         } 
-        public void AlterarArtista(Artista artist)
+        public override void Alterar(Artista artist)
         {
             if (con.Artistas.Contains(artist))
             {
@@ -32,17 +32,17 @@ namespace PersistindoDadosComEntityFC.Database
             }
                 
         }
-        public void DeletarArtista(Artista artista)
+        public override void Deletar(Artista artista)
         {
             con.Artistas.Remove(artista);
             con.SaveChanges();
         }
-        public void AdicionarArtista(Artista artista)
+        public override void Adicionar(Artista artista)
         {
             con.Artistas.Add(artista);
             con.SaveChanges();
         }
-        public Artista? RecuperarPeloNome(string nome) => con.Artistas.FirstOrDefault(x => x.Nome.Equals(nome));
+        public override Artista? RecuperarPeloNome(string nome) => con.Artistas.FirstOrDefault(x => x.Nome.Equals(nome));
 
         //public Artista? RecuperarPeloNome(string nome, Artista? artista)=>con.Artists.Select(x=>x).Where(x=>x.Nome==nome).FirstOrDefault();
         /*
