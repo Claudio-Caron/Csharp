@@ -8,16 +8,41 @@ using System.Threading.Tasks;
 
 namespace PersistindoDadosComEntityFC.Database
 {
-    internal abstract class DAL<T>
+    internal class DAL<T> where T :  class
     {
-        public abstract IEnumerable<T> Listar();
+        protected readonly ScreenSoundContext con;
 
-        public abstract void Alterar(T objeto);
+        public  IEnumerable<T> Listar()=>
+            con.Set<T>().ToList();
+        
 
-        public abstract void Deletar(T objeto);
+        public  void Alterar(T objeto)
+        {
+            if (con.Set<T>().Contains(objeto))
+            {
+                con.Set<T>().Update(objeto);
+                con.SaveChanges();
+                return;
+            }
+            throw new KeyNotFoundException();
+        }
 
-        public abstract void Adicionar(T objeto);
+        public void Deletar(T objeto)
+        {
+            con.Set<T>().Remove(objeto);
+            con.SaveChanges();
+        }
 
-        public abstract T? RecuperarPeloNome(string nome);
+        public void Adicionar(T objeto)
+        {
+            con.Set<T>().Add(objeto);
+            con.SaveChanges();
+        }
+
+        public T? RecuperarPor(Func<T, bool> objeto)
+        {
+            return con.Set<T>().FirstOrDefault(objeto);
+        }
+        
     }
 }
