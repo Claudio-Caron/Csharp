@@ -23,6 +23,11 @@ internal class Artista
 
     public void ExibirDiscografia()
     {
+        if (musicas.Count == 0)
+        {
+            Console.WriteLine($" *** O Artista {Nome} nao possui musicas cadastradas ***");
+            return;
+        }
         Console.WriteLine($"Discografia do artista {Nome}");
         foreach (var musica in musicas)
         {

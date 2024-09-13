@@ -10,18 +10,22 @@ namespace PersistindoDadosComEntityFC.Database
 {
     internal class DAL<T> where T :  class
     {
-        protected readonly ScreenSoundContext con;
+        protected readonly ScreenSoundContext context;
 
+        public DAL(ScreenSoundContext context)
+        {
+            this.context = context;
+        }
         public  IEnumerable<T> Listar()=>
-            con.Set<T>().ToList();
+            context.Set<T>().ToList();
         
 
         public  void Alterar(T objeto)
         {
-            if (con.Set<T>().Contains(objeto))
+            if (context.Set<T>().Contains(objeto))
             {
-                con.Set<T>().Update(objeto);
-                con.SaveChanges();
+                context.Set<T>().Update(objeto);
+                context.SaveChanges();
                 return;
             }
             throw new KeyNotFoundException();
@@ -29,19 +33,19 @@ namespace PersistindoDadosComEntityFC.Database
 
         public void Deletar(T objeto)
         {
-            con.Set<T>().Remove(objeto);
-            con.SaveChanges();
+            context.Set<T>().Remove(objeto);
+            context.SaveChanges();
         }
 
         public void Adicionar(T objeto)
         {
-            con.Set<T>().Add(objeto);
-            con.SaveChanges();
+            context.Set<T>().Add(objeto);
+            context.SaveChanges();
         }
 
         public T? RecuperarPor(Func<T, bool> objeto)
         {
-            return con.Set<T>().FirstOrDefault(objeto);
+            return context.Set<T>().FirstOrDefault(objeto);
         }
         
     }

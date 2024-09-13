@@ -3,14 +3,16 @@ using ScreenSound.Menus;
 using ScreenSound.Modelos;
 
 var context = new ScreenSoundContext();
-var artistaDal = new ArtistaDAL(context);
 
-Dictionary<int, Menu> opcoes = new();
-opcoes.Add(1, new MenuRegistrarArtista());
-opcoes.Add(2, new MenuRegistrarMusica());
-opcoes.Add(3, new MenuMostrarArtistas());
-opcoes.Add(4, new MenuMostrarMusicas());
-opcoes.Add(-1, new MenuSair());
+
+Dictionary<int, Menu> opcoes = new()
+{
+    { 1, new MenuRegistrarArtista() },
+    { 2, new MenuRegistrarMusica() },
+    { 3, new MenuMostrarArtistas() },
+    { 4, new MenuMostrarMusicas() },
+    { -1, new MenuSair() }
+};
 
 void ExibirLogo()
 {
@@ -41,8 +43,10 @@ void ExibirOpcoesDoMenu()
 
     if (opcoes.ContainsKey(opcaoEscolhidaNumerica))
     {
-        Menu menuASerExibido = opcoes[opcaoEscolhidaNumerica];
-        menuASerExibido.Executar(artistaDal);
+
+        var menuASerExibido = opcoes[opcaoEscolhidaNumerica];
+        var artista = new DAL<Artista>(context);
+        menuASerExibido.Executar(artista);
         if (opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
     } 
     else

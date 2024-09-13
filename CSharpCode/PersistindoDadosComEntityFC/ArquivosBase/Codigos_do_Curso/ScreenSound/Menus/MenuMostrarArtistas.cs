@@ -3,15 +3,13 @@ using ScreenSound.Modelos;
 
 namespace ScreenSound.Menus;
 
-internal class MenuMostrarArtistas : Menu
+internal class MenuMostrarArtistas  : Menu
 {
-    public override void Executar(ArtistaDAL artistaDal)
+    public override void Executar(DAL<Artista> artistaDal)
     {
-        
         base.Executar(artistaDal);
         ExibirTituloDaOpcao("Exibindo todos os artistas registradas na nossa aplicação");
-        
-        foreach (Artista artista in artistaDal.ListarArtista())
+        foreach (var artista in artistaDal.Listar())
         {
             Console.WriteLine($"Artista: {artista.ToString()}");
         }
