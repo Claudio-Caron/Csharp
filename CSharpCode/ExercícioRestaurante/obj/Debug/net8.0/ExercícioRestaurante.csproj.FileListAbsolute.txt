@@ -3,3 +3,13 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\obj\Debug\net8.0\ExercícioRestaurante.AssemblyInfo.cs
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\obj\Debug\net8.0\ExercícioRestaurante.csproj.CoreCompileInputs.cache
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\obj\Debug\net8.0\ExercícioRestaurante.sourcelink.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\bin\Debug\net8.0\ExercícioRestaurante.exe
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\bin\Debug\net8.0\ExercícioRestaurante.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\bin\Debug\net8.0\ExercícioRestaurante.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\bin\Debug\net8.0\ExercícioRestaurante.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\bin\Debug\net8.0\ExercícioRestaurante.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\obj\Debug\net8.0\ExercícioRestaurante.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\obj\Debug\net8.0\refint\ExercícioRestaurante.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\obj\Debug\net8.0\ExercícioRestaurante.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\obj\Debug\net8.0\ExercícioRestaurante.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ExercícioRestaurante\obj\Debug\net8.0\ref\ExercícioRestaurante.dll

@@ -51,8 +51,8 @@ class Cardapio
 }
     class BatataFrita
     {
-    public int Id { get; set; 
-        string nome;
+    public int Id { get; set;} 
+        string? nome;
         int porcoes;
         float valor;
         bool disponivel;

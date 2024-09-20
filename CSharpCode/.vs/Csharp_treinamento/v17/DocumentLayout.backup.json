@@ -3,139 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menumostrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menumostrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\database\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\database\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menusair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menusair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menumostrarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menumostrarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScreenSoundDBV0/True/SqlTable/dbo.Artistas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "DockedHeight": 278,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Artista.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Modelos\\Artista.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Modelos\\Artista.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Modelos\\Artista.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Modelos\\Artista.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T15:22:37.892Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuSair.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuSair.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuSair.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuSair.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuSair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T18:27:33.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuMostrarArtistas.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T18:09:13.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuMostrarMusicas.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T18:08:19.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuRegistrarMusica.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T17:54:34.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Program.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\Program.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Program.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:50:05.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\Menu.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\Menu.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\Menu.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T15:01:11.37Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -150,16 +29,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\DAL.cs",
-              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\Database\\DAL.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\DAL.cs",
-              "RelativeToolTip": "PersistindoDadosComEntityFC\\Database\\DAL.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T23:53:56.111Z",
+              "DocumentIndex": 0,
+              "Title": "dbo.Artistas [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScreenSoundDBV0/True/SqlTable/dbo.Artistas.sql",
+              "ToolTip": "dbo.Artistas [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-20T16:28:28.876Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

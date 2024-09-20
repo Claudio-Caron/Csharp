@@ -16,7 +16,7 @@ namespace PersistindoDadosComEntityFC.Database
         public DbSet<Artista> Artistas { get; set; }
 
         private string ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial " +
-                "Catalog=ScreenSoundDB;Integrated Security=True;" +
+                "Catalog=ScreenSoundDBV0;Integrated Security=True;" +
                 "Encrypt=False;Trust Server Certificate=False;" +
                 "Application Intent=ReadWrite;Multi Subnet Failover=False";
         
