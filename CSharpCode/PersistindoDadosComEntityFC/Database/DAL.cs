@@ -16,8 +16,9 @@ namespace PersistindoDadosComEntityFC.Database
         {
             this.context = context;
         }
-        public  IEnumerable<T> Listar()=>
-            context.Set<T>().ToList();
+        public IEnumerable<T>? Listar()=>
+        context.Set<T>().ToList();
+        
         
 
         public  void Alterar(T objeto)
@@ -42,7 +43,6 @@ namespace PersistindoDadosComEntityFC.Database
             context.Set<T>().Add(objeto);
             context.SaveChanges();
         }
-
         public T? RecuperarPor(Func<T, bool> objeto)
         {
             return context.Set<T>().FirstOrDefault(objeto);

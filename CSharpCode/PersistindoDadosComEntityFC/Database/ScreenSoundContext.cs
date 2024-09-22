@@ -22,7 +22,8 @@ namespace PersistindoDadosComEntityFC.Database
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(ConnectionString);
+            optionsBuilder.UseSqlServer(ConnectionString)
+                .UseLazyLoadingProxies();
         }
     }
 }
