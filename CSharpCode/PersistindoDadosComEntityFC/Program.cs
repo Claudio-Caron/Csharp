@@ -1,4 +1,5 @@
-﻿using PersistindoDadosComEntityFC.Database;
+﻿using PersistindoDadosComEntityFC.ArquivosBase.Codigos_do_Curso.ScreenSound.Menus;
+using PersistindoDadosComEntityFC.Database;
 using ScreenSound.Menus;
 using ScreenSound.Modelos;
 
@@ -11,6 +12,7 @@ Dictionary<int, Menu> opcoes = new()
     { 2, new MenuRegistrarMusica() },
     { 3, new MenuMostrarArtistas() },
     { 4, new MenuMostrarMusicas() },
+    { 5, new MenuExibirMusicaAnoLancamento() },
     { -1, new MenuSair() }
 };
 
@@ -35,6 +37,7 @@ void ExibirOpcoesDoMenu()
     Console.WriteLine("Digite 2 para registrar a música de um artista");
     Console.WriteLine("Digite 3 para mostrar todos os artistas");
     Console.WriteLine("Digite 4 para exibir todas as músicas de um artista");
+    Console.WriteLine("Digite 5 para exibir todas as músicas por ano específico");
     Console.WriteLine("Digite -1 para sair");
 
     Console.Write("\nDigite a sua opção: ");

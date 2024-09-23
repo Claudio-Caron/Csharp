@@ -3,10 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScreenSoundDBV0/True/SqlTable/dbo.Musicas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\database\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\database\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScreenSoundDBV0/True/SqlTable/dbo.Artistas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menuexibirmusicaanolancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\arquivosbase\\codigos_do_curso\\screensound\\menus\\menuexibirmusicaanolancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\persistindodadoscomentityfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A0DEC7-6FDC-4235-9160-BD56943113B7}|PersistindoDadosComEntityFC\\PersistindoDadosComEntityFC.csproj|solutionrelative:persistindodadoscomentityfc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,11 +31,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dbo.Musicas [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScreenSoundDBV0/True/SqlTable/dbo.Musicas.sql",
-              "ToolTip": "dbo.Musicas [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-22T00:46:27.548Z",
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\DAL.cs",
+              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\Database\\DAL.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Database\\DAL.cs*",
+              "RelativeToolTip": "PersistindoDadosComEntityFC\\Database\\DAL.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:33:40.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Modelos\\Musica.cs",
+              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Modelos\\Musica.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Modelos\\Musica.cs",
+              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Modelos\\Musica.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:48:34.58Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -42,12 +70,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Artistas [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ScreenSoundDBV0/True/SqlTable/dbo.Artistas.sql",
-              "ToolTip": "dbo.Artistas [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-22T00:46:22.871Z",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Program.cs",
+              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\Program.cs",
+              "RelativeToolTip": "PersistindoDadosComEntityFC\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:57:38.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuExibirMusicaAnoLancamento.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuExibirMusicaAnoLancamento.cs",
+              "RelativeDocumentMoniker": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuExibirMusicaAnoLancamento.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuExibirMusicaAnoLancamento.cs",
+              "RelativeToolTip": "PersistindoDadosComEntityFC\\ArquivosBase\\Codigos_do_Curso\\ScreenSound\\Menus\\MenuExibirMusicaAnoLancamento.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:26:26.223Z",
               "EditorCaption": ""
             }
           ]

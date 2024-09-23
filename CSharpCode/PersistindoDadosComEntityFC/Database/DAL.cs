@@ -16,11 +16,14 @@ namespace PersistindoDadosComEntityFC.Database
         {
             this.context = context;
         }
-        public IEnumerable<T>? Listar()=>
-        context.Set<T>().ToList();
-        
-        
 
+        public enum Ordenacao{
+            crescente,
+            decrescente
+        }
+
+       
+        
         public  void Alterar(T objeto)
         {
             if (context.Set<T>().Contains(objeto))
@@ -43,10 +46,21 @@ namespace PersistindoDadosComEntityFC.Database
             context.Set<T>().Add(objeto);
             context.SaveChanges();
         }
-        public T? RecuperarPor(Func<T, bool> objeto)
-        {
-            return context.Set<T>().FirstOrDefault(objeto);
-        }
+
+        public IEnumerable<T>? Listar() =>
+        context.Set<T>().ToList();
+
+        public IEnumerable<T> ListarPor(Func<T, bool> func) =>
+            context.Set<T>().Where(func).Distinct();
+        public IEnumerable<T> ListarOrdenadoPor(Func<T, int> tipo, Ordenacao o)=>
+            o == Ordenacao.crescente ?
+            context.Set<T>().OrderBy(tipo).ToList():
+            context.Set<T>().OrderByDescending(tipo).ToList();
         
+        public T? RecuperarPor(Func<T, bool> objeto)=>
+        context.Set<T>().FirstOrDefault(objeto);
+
+
+
     }
 }

@@ -20,7 +20,8 @@ public class Musica
 
     public override string ToString()
     {
-        return @$"Id: {Id}
-        Nome: {Nome}";
+        return @$"Id : {Id}\n
+        Nome : {Nome}\n
+        Ano de Lançamento : {AnoLancamento}\n";
     }
 }
