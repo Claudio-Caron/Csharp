@@ -18,10 +18,16 @@ internal class Program
         builder.Services.AddTransient<DAL<Artista>>();
         builder.Services.AddTransient<DAL<Musica>>();
 
+        builder.Services.AddEndpointsApiExplorer();
+        builder.Services.AddSwaggerGen();
+
         builder.Services.Configure<JsonOptions>(options => options.SerializerOptions
             .ReferenceHandler = ReferenceHandler.IgnoreCycles);
 
         var app = builder.Build();
+
+        app.UseSwagger();
+        app.UseSwaggerUI();
 
         ArtistaExtentions.AddEndpointsArtista(app);
         MusicaExtentions.AddEndpointsMusica((app));

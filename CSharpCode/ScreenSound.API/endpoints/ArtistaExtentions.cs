@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PersistindoDadosComEntityFC.Database;
+using ScreenSound.API.Requests;
 using ScreenSound.Modelos;
 
 namespace ScreenSound.API.endpoints
@@ -23,8 +24,9 @@ namespace ScreenSound.API.endpoints
 
             });
 
-            app.MapPost("/Artistas", ([FromServices] DAL<Artista> artistaDal, [FromBody] Artista artista) =>
+            app.MapPost("/Artistas", ([FromServices] DAL<Artista> artistaDal, [FromBody] Rartista artistaRequisicao) =>
             {
+                var artista = new Artista(artistaRequisicao.nome, artistaRequisicao.bio);
                 artistaDal.Adicionar(artista);
                 return Results.Ok(artista);
             });
