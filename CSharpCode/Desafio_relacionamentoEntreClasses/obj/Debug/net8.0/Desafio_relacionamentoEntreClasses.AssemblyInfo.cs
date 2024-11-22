@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio_relacionamentoEntreClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20c5c1af55cb93d58eae1ba836131228239a6408")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7272276ca8ac30927b3ac3abf474df5303f7abc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio_relacionamentoEntreClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio_relacionamentoEntreClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

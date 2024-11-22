@@ -24,8 +24,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "artista",
-        "Type": "ScreenSound.Modelos.Artista",
+        "Name": "artistaRequisicao",
+        "Type": "ScreenSound.API.Requests.ArtistaRequest",
         "IsRequired": true
       }
     ],
@@ -128,8 +128,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "music",
-        "Type": "ScreenSound.Modelos.Musica",
+        "Name": "musicRequest",
+        "Type": "ScreenSound.API.Requests.MusicaRequest",
         "IsRequired": true
       }
     ],
@@ -151,7 +151,7 @@
     "Parameters": [
       {
         "Name": "music",
-        "Type": "ScreenSound.Modelos.Musica",
+        "Type": "ScreenSound.API.Requests.MusicaRequestEdit",
         "IsRequired": true
       }
     ],
