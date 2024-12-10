@@ -1,13 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using PersistindoDadosComEntityFC.Database;
 using ScreenSound.API.Requests;
 using ScreenSound.API.Responses;
 using ScreenSound.Modelos;
+using ScreenSound.Modelos.Modelos;
 
 namespace ScreenSound.API.endpoints
 {
     public static class MusicaExtentions
     {
+       // #region EndPoints
         public static void AddEndpointsMusica(this WebApplication app)
         {
             app.MapGet("/Musicas", ([FromServices] DAL<Musica> dal)
@@ -25,12 +28,17 @@ namespace ScreenSound.API.endpoints
                 return Results.Ok(transferMusic);
             });
 
-            app.MapPost("/Musicas", ([FromServices] DAL<Musica> dal, [FromBody] MusicaRequest musicRequest) =>
+            app.MapPost("/Musicas", ([FromServices] DAL<Musica> dal,
+                [FromServices]DAL<Genero> dalGeneros,[FromBody] MusicaRequest musicRequest) =>
             {
-                var music = new Musica(musicRequest.nome);
-                music.Id = musicRequest.ArtistaId;
-                if (musicRequest.anoLancamento!=0) 
-                    music.AnoLancamento = musicRequest.anoLancamento;
+                var music = new Musica(musicRequest.nome)
+                {
+                    AnoLancamento = musicRequest.anoLancamento,
+                    Id = musicRequest.ArtistaId,
+                    GenerosMusica = musicRequest.generos is not null ?
+                    RequestToGeneroEntity(musicRequest.generos, dalGeneros) : new List<Genero>()
+                };
+                
                 dal.Adicionar(music);
                 return Results.Ok();
             });
@@ -60,9 +68,30 @@ namespace ScreenSound.API.endpoints
             });
         }
 
+        private static ICollection<Genero> RequestToGeneroEntity(ICollection<GeneroRequest> generos, DAL<Genero> dalGenero)
+        {
+            var generosConvertidos = new List<Genero>();
+           
+            foreach(var item in generos)
+            {
+                var entity = dalGenero.RecuperarPor(x=>x.Name.ToUpper().Equals(item.Name.ToUpper()));
+                if (entity is not null)
+                {
+                    generosConvertidos.Add(entity);
+                }
+                else
+                {
+                    var genero = new Genero() { Name=  item.Name,  Description= item.Description, Id = item.Id};
+                    generosConvertidos.Add(genero);
+                }
+            }
+
+            return generosConvertidos;
+        }
+
         private static ICollection<MusicaResponse> EntityListToResponse(IEnumerable<Musica> musics)
             => musics.Select(x => EntityToResponse(x)).ToList();
-
+        
         private static MusicaResponse EntityToResponse(Musica music)
             => new MusicaResponse(music.Nome, music.AnoLancamento);
     }

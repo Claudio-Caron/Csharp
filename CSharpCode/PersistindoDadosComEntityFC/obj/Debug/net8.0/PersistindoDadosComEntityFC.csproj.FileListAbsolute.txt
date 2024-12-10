@@ -73,3 +73,9 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\ScreenSound.Modelos.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\ScreenSound.database.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\ScreenSound.database.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\PersistindoDadosComEntityFC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll

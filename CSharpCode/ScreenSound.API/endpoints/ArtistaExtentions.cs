@@ -66,6 +66,7 @@ namespace ScreenSound.API.endpoints
             return artists.Select(a => ConvertToResponse(a)).ToList();
         }
 
+
         private static ArtistaResponse ConvertToResponse(Artista artist)
         {
             return new ArtistaResponse(artist.Nome, artist.Bio, artist.FotoPerfil);

@@ -6,7 +6,9 @@ using ScreenSound.Modelos;
 using System.Text.Json.Serialization;
 using PersistindoDadosComEntityFC.Migrations;
 using ScreenSound.API.endpoints;
+using ScreenSound.Modelos.Modelos;
 using JsonOptions = Microsoft.AspNetCore.Http.Json.JsonOptions;
+using Microsoft.EntityFrameworkCore;
 
 internal class Program
 {
@@ -14,9 +16,16 @@ internal class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
-        builder.Services.AddDbContext<ScreenSoundContext>();
+
+        builder.Services.AddDbContext<ScreenSoundContext>((options) =>
+        {
+            options.UseSqlServer(builder.Configuration["ConnectionStrings:ScreenSoundDB"])
+                .UseLazyLoadingProxies();
+
+        });
         builder.Services.AddTransient<DAL<Artista>>();
         builder.Services.AddTransient<DAL<Musica>>();
+        builder.Services.AddTransient<DAL<Genero>>();
 
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
@@ -31,6 +40,7 @@ internal class Program
 
         ArtistaExtentions.AddEndpointsArtista(app);
         MusicaExtentions.AddEndpointsMusica((app));
+        GeneroExtentions.AddEndpointsGenero(app);
         
         app.Run();
     }

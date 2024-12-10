@@ -104,6 +104,104 @@
     ]
   },
   {
+    "ContainingType": "ScreenSound.API.endpoints.GeneroExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsGenero\u003Eb__0_0",
+    "RelativePath": "Generos",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScreenSound.API.endpoints.GeneroExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsGenero\u003Eb__0_2",
+    "RelativePath": "Generos",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genero",
+        "Type": "ScreenSound.API.Requests.GeneroRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScreenSound.API.endpoints.GeneroExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsGenero\u003Eb__0_4",
+    "RelativePath": "Generos",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genero",
+        "Type": "ScreenSound.API.Requests.GeneroRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScreenSound.API.endpoints.GeneroExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsGenero\u003Eb__0_3",
+    "RelativePath": "Generos/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScreenSound.API.endpoints.GeneroExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsGenero\u003Eb__0_1",
+    "RelativePath": "Generos/{nome}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ScreenSound.API.endpoints.MusicaExtentions\u002B\u003C\u003Ec",
     "Method": "\u003CAddEndpointsMusica\u003Eb__0_0",
     "RelativePath": "Musicas",
