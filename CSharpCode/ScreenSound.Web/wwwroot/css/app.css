@@ -36,6 +36,7 @@ a, .btn-link {
     color: red;
 }
 
+
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
@@ -110,4 +111,13 @@ div.mud-main-content.main-content {
 
 header.mud-appbar.mud-appbar-fixed-top.mud-elevation-2.mud-theme-surface {
     background-color: rgba(55,55,64,1);
+}
+
+div.mud-main-content.main-content {
+    background: linear-gradient(180deg, #96F 0%, #000 100%)!important;
+    margin-top:64px;
+    height:100vh;
+}
+header.mud-appbar.mud-appbar-fixed-top.mud-elevation-2.mud-theme-surface{
+    background-color :rgba(55, 55,64, 1);
 }

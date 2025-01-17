@@ -37,9 +37,29 @@ namespace PersistindoDadosComEntityFC.Database
 
         public void Deletar(T objeto)
         {
-            context.Set<T>().Remove(objeto);
-            context.SaveChanges();
+            // Verifica se o objeto é do tipo Artista
+            if (objeto is Artista artista)
+            {
+                // Carregar as músicas associadas ao artista
+                var musicasAssociadas = context.Musicas.Where(m => m.Artista.Id == artista.Id).ToList();
+
+                // Remover as músicas associadas
+                context.Musicas.RemoveRange(musicasAssociadas);
+                context.SaveChanges();  // Salvar alterações (excluir as músicas)
+
+                // Agora pode remover o artista
+                context.Set<T>().Remove(objeto);
+                context.SaveChanges();  // Salvar alterações (excluir o artista)
+             
+            }
+            else
+            {
+                // Se o objeto não for do tipo Artista, faz a exclusão normalmente
+                context.Set<T>().Remove(objeto);
+                context.SaveChanges();
+            }
         }
+
 
         public void Adicionar(T objeto)
         {

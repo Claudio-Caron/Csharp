@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using PersistindoDadosComEntityFC.Database;
 using ScreenSound.API.Requests;
 using ScreenSound.API.Responses;
@@ -24,13 +25,27 @@ namespace ScreenSound.API.endpoints
                     return Results.NotFound();
                 }
 
-                var transferArtist = new ArtistaResponse(artistar.Nome, artistar.Bio, artistar.FotoPerfil);
+                var transferArtist = new ArtistaResponse(artistar.Id, artistar.Nome, artistar.Bio, artistar.FotoPerfil);
                 return Results.Ok(transferArtist);
             });
 
-            app.MapPost("/Artistas", ([FromServices] DAL<Artista> artistaDal, [FromBody] ArtistaRequest artistaRequisicao) =>
+            app.MapPost("/Artistas", async ([FromServices] IHostEnvironment env,[FromServices] DAL<Artista> artistaDal, [FromBody] ArtistaRequest artistaRequisicao) =>
             {
-                var artista = new Artista(artistaRequisicao.nome, artistaRequisicao.bio);
+                var nome = artistaRequisicao.nome.Trim();
+                var imagemArtista = DateTime.Now.ToString("ddMMyyyyhhss") + "." + nome +
+                ".jpeg";
+
+                var path = Path.Combine(env.ContentRootPath, "wwwroot", "photosPerfil", imagemArtista);
+
+                using MemoryStream ms = new MemoryStream(Convert.FromBase64String(artistaRequisicao.fotoPerfil));
+                using FileStream fs = new(path, FileMode.Create);
+                await ms.CopyToAsync(fs);
+
+                var artista = new Artista(artistaRequisicao.nome, artistaRequisicao.bio)
+                {
+                    FotoPerfil = $"/FotoPerfil/{imagemArtista}"
+                };
+
                 artistaDal.Adicionar(artista);
                 return Results.Ok(artista);
             });
@@ -46,12 +61,37 @@ namespace ScreenSound.API.endpoints
                 return Results.Ok();
             });
 
-            app.MapPut("/Artistas", ([FromServices] DAL<Artista> dal, [FromBody] Artista artista) => {
-                var artistaAAtualizar = dal.RecuperarPor(a => a.Id == artista.Id);
+            app.MapPut("/Artistas", async ([FromServices] IHostEnvironment env, [FromServices] DAL<Artista> dal, [FromBody] ArtistaRequestEdit artistaEdit) => {
+                var artistaAAtualizar = dal.RecuperarPor(a => a.Id == artistaEdit.id);
                 if (artistaAAtualizar is null)
                 {
                     return Results.NotFound();
                 }
+                var nome = artistaEdit.nome.Trim();
+                var imagemArtista = DateTime.Now.ToString("ddMMyyyyhhss") + "." + nome +
+                ".jpg";
+
+                var path = Path.Combine(env.ContentRootPath, "wwwroot", "photosPerfil", imagemArtista);
+                if (artistaEdit.fotoPerfil is not null)
+                {
+                    using MemoryStream ms = new MemoryStream(Convert.FromBase64String(artistaEdit.fotoPerfil!));
+                    using FileStream fs = new(path, FileMode.Create);
+                    await ms.CopyToAsync(fs);
+                }
+                else
+                {
+                    using MemoryStream ms = new MemoryStream(Convert.FromBase64String("https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"));
+                    using FileStream fs = new(path, FileMode.Create);
+                    await ms.CopyToAsync(fs);
+                }
+                 //using MemoryStream ms = new MemoryStream(Convert.FromBase64String(artistaEdit.fotoPerfil!));
+                 //using FileStream fs = new(path, FileMode.Create);
+                // await ms.CopyToAsync(fs);
+
+                var artista = new Artista(artistaEdit.nome, artistaEdit.bio)
+                {
+                    FotoPerfil = $"/FotoPerfil/{imagemArtista}"
+                };
                 artistaAAtualizar.Nome = artista.Nome;
                 artistaAAtualizar.Bio = artista.Bio;
                 artistaAAtualizar.FotoPerfil = artista.FotoPerfil;
@@ -69,7 +109,7 @@ namespace ScreenSound.API.endpoints
 
         private static ArtistaResponse ConvertToResponse(Artista artist)
         {
-            return new ArtistaResponse(artist.Nome, artist.Bio, artist.FotoPerfil);
+            return new ArtistaResponse(artist.Id, artist.Nome, artist.Bio, artist.FotoPerfil);
         }
 
     }

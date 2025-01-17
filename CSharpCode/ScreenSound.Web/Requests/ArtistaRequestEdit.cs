@@ -2,5 +2,5 @@
 
 namespace ScreenSound.API.Requests;
 
-public record ArtistaRequestEdit([Required]string nome, [Required]string bio, [Required] int id,string fotoPerfil):
+public record ArtistaRequestEdit(string nome, string bio,  int id,string? fotoPerfil):
     ArtistaRequest(nome, bio, fotoPerfil);

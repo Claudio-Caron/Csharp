@@ -57,7 +57,7 @@ namespace ScreenSound.API.endpoints
                 }
                 return Results.NotFound();
             });
-            app.MapPut("/Generos", ([FromServices] DAL<Genero> generos,[FromBody] GeneroRequest genero) =>
+            app.MapPut("/Generos", ([FromServices] DAL<Genero> generos,[FromBody] GeneroRequestEdit genero) =>
             {
                 var recuperedGenero = generos.RecuperarPor(x => x.Id == genero.Id);
                 if (recuperedGenero is null)
@@ -71,7 +71,7 @@ namespace ScreenSound.API.endpoints
             });
         }
 
-        private static Genero RequestedToGenero(GeneroRequest genero)
+        public static Genero RequestedToGenero(GeneroRequest genero)
         {
             return new Genero() {Name = genero.Name, Description = genero.Description };
         }
@@ -79,6 +79,6 @@ namespace ScreenSound.API.endpoints
             => generos.Select(a=>GeneroToGeneroRequest(a)).ToList();
 
         private static GeneroResponse GeneroToGeneroRequest(Genero genero)
-        => new(genero.Name, genero.Description);
+        => new(genero.Id, genero.Name!, genero.Description);
     }
 }

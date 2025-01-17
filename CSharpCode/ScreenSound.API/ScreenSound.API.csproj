@@ -23,5 +23,8 @@
     <ProjectReference Include="..\ScreenSound.database\ScreenSound.database.csproj" />
     <ProjectReference Include="..\ScreenSound.Modelos\ScreenSound.Modelos.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\photosPerfil\" />
+  </ItemGroup>
 
 </Project>

@@ -15,6 +15,17 @@ internal class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+        
+        builder.Services.AddCors(options =>
+        {
+            options.AddPolicy("PermitirTudo", policy =>
+            {
+                policy.AllowAnyOrigin()
+                      .AllowAnyMethod()
+                      .AllowAnyHeader();
+            });
+        });
+        
 
 
         builder.Services.AddDbContext<ScreenSoundContext>((options) =>
@@ -34,7 +45,7 @@ internal class Program
             .ReferenceHandler = ReferenceHandler.IgnoreCycles);
 
         var app = builder.Build();
-
+        app.UseStaticFiles();
         app.UseSwagger();
         app.UseSwaggerUI();
 
@@ -42,6 +53,7 @@ internal class Program
         MusicaExtentions.AddEndpointsMusica((app));
         GeneroExtentions.AddEndpointsGenero(app);
         
+        app.UseCors("PermitirTudo");
         app.Run();
     }
 }

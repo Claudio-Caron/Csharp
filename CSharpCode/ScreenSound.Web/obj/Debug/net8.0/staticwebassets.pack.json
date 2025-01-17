@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\ScreenSound.Web.styles.css"
     },
     {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\wwwroot\\Images\\cardArtista.png",
+      "PackagePath": "staticwebassets\\Images\\cardArtista.png"
+    },
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\wwwroot\\Images\\favicon.png",
+      "PackagePath": "staticwebassets\\Images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\wwwroot\\Images\\screensound-logo.png",
+      "PackagePath": "staticwebassets\\Images\\screensound-logo.png"
+    },
+    {
       "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },

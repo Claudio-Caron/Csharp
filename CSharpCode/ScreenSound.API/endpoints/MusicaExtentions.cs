@@ -74,6 +74,7 @@ namespace ScreenSound.API.endpoints
            
             foreach(var item in generos)
             {
+                var genero= new Genero() { Name = item.Name, Description = item.Description };
                 var entity = dalGenero.RecuperarPor(x=>x.Name.ToUpper().Equals(item.Name.ToUpper()));
                 if (entity is not null)
                 {
@@ -81,7 +82,6 @@ namespace ScreenSound.API.endpoints
                 }
                 else
                 {
-                    var genero = new Genero() { Name=  item.Name,  Description= item.Description, Id = item.Id};
                     generosConvertidos.Add(genero);
                 }
             }

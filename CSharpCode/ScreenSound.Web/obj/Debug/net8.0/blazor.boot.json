@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ScreenSound.Web",
   "resources": {
-    "hash": "sha256-OdKcWOw0cmspyVQ+8nrOtw/uoLzSDcntlVuWtoaweV0=",
+    "hash": "sha256-fyCoxVWs26CIX6TYhknMKdNipCB/881WBuZ+iO7pA3s=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.pjwa9xrc14.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -216,10 +216,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "ScreenSound.Web.wasm": "sha256-8YmKbTvRDHlKWcDOx0iccUkdMhrbz3Ctmg2b+39iATg="
+      "ScreenSound.Web.wasm": "sha256-sl7lQ3YgWFX7cWSP0WLCPKcGtakqlCZdGKlo5cdC6As="
     },
     "pdb": {
-      "ScreenSound.Web.pdb": "sha256-IVzmOCAQ5m5PMwGAxSSpiKtg1BDEkaqg1sW86eJgCF8="
+      "ScreenSound.Web.pdb": "sha256-aZ/EojuYqt4jHg2ymrACxYM0J9CpoJgMNdZWHkGjekU="
     }
   },
   "cacheBootResources": true,

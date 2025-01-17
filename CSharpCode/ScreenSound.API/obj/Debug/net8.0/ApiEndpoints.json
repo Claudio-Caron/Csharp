@@ -46,8 +46,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "artista",
-        "Type": "ScreenSound.Modelos.Artista",
+        "Name": "artistaEdit",
+        "Type": "ScreenSound.API.Requests.ArtistaRequestEdit",
         "IsRequired": true
       }
     ],
@@ -151,7 +151,7 @@
     "Parameters": [
       {
         "Name": "genero",
-        "Type": "ScreenSound.API.Requests.GeneroRequest",
+        "Type": "ScreenSound.API.Requests.GeneroRequestEdit",
         "IsRequired": true
       }
     ],
