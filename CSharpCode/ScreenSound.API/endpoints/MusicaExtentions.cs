@@ -24,7 +24,7 @@ namespace ScreenSound.API.endpoints
                 {
                     return Results.NotFound();
                 }
-                var transferMusic = new MusicaResponse(musica.Nome, musica.AnoLancamento);
+                var transferMusic = new MusicaResponse(musica.Id, musica.Nome,musica.Artista!.Id, musica.Artista.Nome, musica.AnoLancamento);
                 return Results.Ok(transferMusic);
             });
 
@@ -93,6 +93,6 @@ namespace ScreenSound.API.endpoints
             => musics.Select(x => EntityToResponse(x)).ToList();
         
         private static MusicaResponse EntityToResponse(Musica music)
-            => new MusicaResponse(music.Nome, music.AnoLancamento);
+            => new MusicaResponse(music.Id, music.Nome, music.Artista!.Id, music.Artista.Nome, music.AnoLancamento);
     }
 }

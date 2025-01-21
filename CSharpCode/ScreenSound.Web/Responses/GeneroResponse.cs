@@ -2,4 +2,4 @@
 
 namespace ScreenSound.API.Responses;
 
-public record GeneroResponse([Required] string name, string description);
+public record GeneroResponse([Required] int id, [Required] string name, string description);

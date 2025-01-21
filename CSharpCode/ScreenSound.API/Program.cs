@@ -15,7 +15,7 @@ internal class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
-        
+
         builder.Services.AddCors(options =>
         {
             options.AddPolicy("PermitirTudo", policy =>
@@ -50,7 +50,7 @@ internal class Program
         app.UseSwaggerUI();
 
         ArtistaExtentions.AddEndpointsArtista(app);
-        MusicaExtentions.AddEndpointsMusica((app));
+        MusicaExtentions.AddEndpointsMusica(app);
         GeneroExtentions.AddEndpointsGenero(app);
         
         app.UseCors("PermitirTudo");

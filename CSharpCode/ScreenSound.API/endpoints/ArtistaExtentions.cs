@@ -72,21 +72,10 @@ namespace ScreenSound.API.endpoints
                 ".jpg";
 
                 var path = Path.Combine(env.ContentRootPath, "wwwroot", "photosPerfil", imagemArtista);
-                if (artistaEdit.fotoPerfil is not null)
-                {
-                    using MemoryStream ms = new MemoryStream(Convert.FromBase64String(artistaEdit.fotoPerfil!));
-                    using FileStream fs = new(path, FileMode.Create);
-                    await ms.CopyToAsync(fs);
-                }
-                else
-                {
-                    using MemoryStream ms = new MemoryStream(Convert.FromBase64String("https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"));
-                    using FileStream fs = new(path, FileMode.Create);
-                    await ms.CopyToAsync(fs);
-                }
-                 //using MemoryStream ms = new MemoryStream(Convert.FromBase64String(artistaEdit.fotoPerfil!));
-                 //using FileStream fs = new(path, FileMode.Create);
-                // await ms.CopyToAsync(fs);
+                
+                 using MemoryStream ms = new MemoryStream(Convert.FromBase64String(artistaEdit.fotoPerfil!));
+                 using FileStream fs = new(path, FileMode.Create);
+                 await ms.CopyToAsync(fs);
 
                 var artista = new Artista(artistaEdit.nome, artistaEdit.bio)
                 {

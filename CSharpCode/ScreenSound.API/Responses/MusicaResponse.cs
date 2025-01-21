@@ -1,3 +1,3 @@
 ﻿namespace ScreenSound.API.Responses;
 
-public record MusicaResponse(string nome, int anoLancamento);
+public record MusicaResponse(int Id, string Nome, int ArtistaId, string NomeArtista, int? anoLancamento);

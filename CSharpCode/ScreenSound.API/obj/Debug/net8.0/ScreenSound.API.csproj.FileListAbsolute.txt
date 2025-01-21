@@ -176,3 +176,4 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Debug\net8.0\ScreenSound.API.staticwebassets.runtime.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Debug\net8.0\Newtonsoft.Json.dll
