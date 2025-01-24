@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="screensound-webappca" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\claud\\OneDrive\\Área\ de\ Trabalho\\Programação\\Linguagens-programação\\C\#_treinamento\\CSharpCode\\ScreenSound\.Web\\obj\\Release\\net8\.0\\browser-wasm\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

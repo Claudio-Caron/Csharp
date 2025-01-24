@@ -3,48 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\pages\\editarmusica.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\pages\\editarmusica.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\pages\\musicaporartista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\pages\\musicaporartista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\components\\cardmusica.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\components\\cardmusica.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\responses\\musicaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\responses\\musicaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\requests\\generorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\requests\\generorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB042B59-6991-4712-90CE-09706079FF48}|ScreenSound.API\\ScreenSound.API.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB042B59-6991-4712-90CE-09706079FF48}|ScreenSound.API\\ScreenSound.API.csproj|solutionrelative:screensound.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB042B59-6991-4712-90CE-09706079FF48}|ScreenSound.API\\ScreenSound.API.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB042B59-6991-4712-90CE-09706079FF48}|ScreenSound.API\\ScreenSound.API.csproj|solutionrelative:screensound.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\responses\\generoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\responses\\generoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\pages\\editarartista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\pages\\editarartista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB042B59-6991-4712-90CE-09706079FF48}|ScreenSound.API\\ScreenSound.API.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.api\\endpoints\\musicaextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB042B59-6991-4712-90CE-09706079FF48}|ScreenSound.API\\ScreenSound.API.csproj|solutionrelative:screensound.api\\endpoints\\musicaextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\services\\musicaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\services\\musicaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB3D47D-4259-4192-AEC0-93C8F6818901}|ScreenSound.Web\\ScreenSound.Web.csproj|solutionrelative:screensound.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C61F3B3-483D-4E2F-B4ED-DA0D9350DAE5}|ScreenSound.database\\ScreenSound.database.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\linguagens-programa\u00E7\u00E3o\\c#_treinamento\\csharpcode\\screensound.database\\database\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C61F3B3-483D-4E2F-B4ED-DA0D9350DAE5}|ScreenSound.database\\ScreenSound.database.csproj|solutionrelative:screensound.database\\database\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 272,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,136 +42,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GeneroResponse.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Responses\\GeneroResponse.cs",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Responses\\GeneroResponse.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Responses\\GeneroResponse.cs",
-              "RelativeToolTip": "ScreenSound.Web\\Responses\\GeneroResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:16:14.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GeneroRequest.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Requests\\GeneroRequest.cs",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Requests\\GeneroRequest.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Requests\\GeneroRequest.cs",
-              "RelativeToolTip": "ScreenSound.Web\\Requests\\GeneroRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:16:08.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EditarArtista.razor",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Pages\\EditarArtista.razor",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Pages\\EditarArtista.razor",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Pages\\EditarArtista.razor",
-              "RelativeToolTip": "ScreenSound.Web\\Pages\\EditarArtista.razor",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T14:03:14.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MusicaExtentions.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.API\\endpoints\\MusicaExtentions.cs",
-              "RelativeDocumentMoniker": "ScreenSound.API\\endpoints\\MusicaExtentions.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.API\\endpoints\\MusicaExtentions.cs",
-              "RelativeToolTip": "ScreenSound.API\\endpoints\\MusicaExtentions.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAASwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T21:16:11.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Program.cs",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Program.cs",
-              "RelativeToolTip": "ScreenSound.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T21:13:44.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.API\\Program.cs",
-              "RelativeDocumentMoniker": "ScreenSound.API\\Program.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.API\\Program.cs",
-              "RelativeToolTip": "ScreenSound.API\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T21:10:35.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MusicaPorArtista.razor",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Pages\\MusicaPorArtista.razor",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Pages\\MusicaPorArtista.razor",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Pages\\MusicaPorArtista.razor",
-              "RelativeToolTip": "ScreenSound.Web\\Pages\\MusicaPorArtista.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T21:06:52.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MusicaAPI.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Services\\MusicaAPI.cs",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Services\\MusicaAPI.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Services\\MusicaAPI.cs",
-              "RelativeToolTip": "ScreenSound.Web\\Services\\MusicaAPI.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T17:47:05.949Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EditarMusica.razor",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Pages\\EditarMusica.razor",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Pages\\EditarMusica.razor",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Pages\\EditarMusica.razor",
-              "RelativeToolTip": "ScreenSound.Web\\Pages\\EditarMusica.razor",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAiwHkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T17:17:50.873Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ScreenSound.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.API\\appsettings.json",
+              "RelativeToolTip": "ScreenSound.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T18:01:12.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CardMusica.razor",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Components\\CardMusica.razor",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Components\\CardMusica.razor",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Components\\CardMusica.razor",
-              "RelativeToolTip": "ScreenSound.Web\\Components\\CardMusica.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T17:14:42.868Z"
+              "Title": "ScreenSoundContext.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.database\\Database\\ScreenSoundContext.cs",
+              "RelativeDocumentMoniker": "ScreenSound.database\\Database\\ScreenSoundContext.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.database\\Database\\ScreenSoundContext.cs",
+              "RelativeToolTip": "ScreenSound.database\\Database\\ScreenSoundContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:43:18.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MusicaResponse.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Responses\\MusicaResponse.cs",
-              "RelativeDocumentMoniker": "ScreenSound.Web\\Responses\\MusicaResponse.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.Web\\Responses\\MusicaResponse.cs",
-              "RelativeToolTip": "ScreenSound.Web\\Responses\\MusicaResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.API\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound.API\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\Linguagens-programa\u00E7\u00E3o\\C#_treinamento\\CSharpCode\\ScreenSound.API\\Program.cs",
+              "RelativeToolTip": "ScreenSound.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T20:51:13.442Z"
+              "WhenOpened": "2025-01-20T21:10:35.703Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },

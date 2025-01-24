@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5nUwlXtp6xbi61zon9TAU7a69sbxCfaP2WNucw6UBSs=",
+  "Hash": "HtCKwhLaFLzElgcez3nZDYaJj+lHb5RCDcNqT0ihneI=",
   "Source": "ScreenSound.API",
   "BasePath": "_content/ScreenSound.API",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\photosPerfil\\170120251025.teste novamnete.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\photosPerfil\\210120251023.artista novo.jpeg",
+      "SourceId": "ScreenSound.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\",
+      "BasePath": "_content/ScreenSound.API",
+      "RelativePath": "photosPerfil/210120251023.artista novo.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photosPerfil\\210120251023.artista novo.jpeg"
     }
   ]
 }

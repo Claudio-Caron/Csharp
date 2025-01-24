@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ScreenSound.Modelos.Modelos;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 namespace PersistindoDadosComEntityFC.Database
 {
@@ -25,8 +26,8 @@ namespace PersistindoDadosComEntityFC.Database
         private string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ScreenSoundDBV0;" +
             "Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;" +
             "Application Intent=ReadWrite;Multi Subnet Failover=False";
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+       
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (optionsBuilder.IsConfigured) 
             { 

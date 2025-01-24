@@ -314,9 +314,14 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\msquic.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\aspnetcorev2_inprocess.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Azure.Core.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Azure.Data.AppConfiguration.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Azure.Identity.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Azure.Messaging.EventGrid.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Azure.Security.KeyVault.Secrets.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Castle.Core.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\DnsClient.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Azure.AppConfiguration.AspNetCore.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Data.SqlClient.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
@@ -327,6 +332,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.Extensions.Logging.dll
@@ -343,6 +349,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.OpenApi.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.SqlServer.Server.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Newtonsoft.Json.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

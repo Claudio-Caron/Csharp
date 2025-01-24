@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\photosPerfil\\160120250216.Claudio o Mestre.jpg",
+      "PackagePath": "staticwebassets\\photosPerfil\\160120250216.Claudio o Mestre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\photosPerfil\\160120250229.Claudio.jpg",
+      "PackagePath": "staticwebassets\\photosPerfil\\160120250229.Claudio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\photosPerfil\\160120250334.Rafael Taboca.jpg",
+      "PackagePath": "staticwebassets\\photosPerfil\\160120250334.Rafael Taboca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\photosPerfil\\160120250346.Rafael Taboca.jpg",
+      "PackagePath": "staticwebassets\\photosPerfil\\160120250346.Rafael Taboca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\photosPerfil\\170120251006.ramos.jpg",
+      "PackagePath": "staticwebassets\\photosPerfil\\170120251006.ramos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\photosPerfil\\170120251025.teste novamnete.jpeg",
+      "PackagePath": "staticwebassets\\photosPerfil\\170120251025.teste novamnete.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\Programação\\Linguagens-programação\\C#_treinamento\\CSharpCode\\ScreenSound.API\\wwwroot\\photosPerfil\\210120251023.artista novo.jpeg",
+      "PackagePath": "staticwebassets\\photosPerfil\\210120251023.artista novo.jpeg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.ScreenSound.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.ScreenSound.API.props",
+      "PackagePath": "build\\ScreenSound.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.ScreenSound.API.props",
+      "PackagePath": "buildMultiTargeting\\ScreenSound.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.ScreenSound.API.props",
+      "PackagePath": "buildTransitive\\ScreenSound.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

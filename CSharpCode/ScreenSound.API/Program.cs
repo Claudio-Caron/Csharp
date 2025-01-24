@@ -15,7 +15,11 @@ internal class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
-
+        builder.Host.ConfigureAppConfiguration(config =>
+        {
+            var settings = config.Build();
+            config.AddAzureAppConfiguration("Endpoint=https://screensound-configurationn.azconfig.io;Id=Ks7s;Secret=FeSonGkMHROaAKNShqYI3MX4WhJk9zMHDXiwQgovZeJW7CADBmPzJQQJ99BAACZoyfie5JLqAAACAZAC483Q");
+        });
         builder.Services.AddCors(options =>
         {
             options.AddPolicy("PermitirTudo", policy =>
@@ -34,6 +38,7 @@ internal class Program
                 .UseLazyLoadingProxies();
 
         });
+
         builder.Services.AddTransient<DAL<Artista>>();
         builder.Services.AddTransient<DAL<Musica>>();
         builder.Services.AddTransient<DAL<Genero>>();

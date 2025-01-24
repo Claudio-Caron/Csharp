@@ -175,3 +175,11 @@ C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\ScreenSound.API.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\ScreenSound.API.genruntimeconfig.cache
 C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\obj\Release\net8.0\ref\ScreenSound.API.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Release\net8.0\ScreenSound.API.staticwebassets.runtime.json
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Release\net8.0\Azure.Data.AppConfiguration.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Release\net8.0\Azure.Messaging.EventGrid.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Release\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Release\net8.0\DnsClient.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Release\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Programação\Linguagens-programação\C#_treinamento\CSharpCode\ScreenSound.API\bin\Release\net8.0\Newtonsoft.Json.dll
